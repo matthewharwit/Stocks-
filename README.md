@@ -1,5 +1,6 @@
-# Stocks-
-List of Scripts - Key features not included 
+# Algo Stock Trading Bot-
+
+List of daily execution scripts - Key features not included 
 
 Includes:
 
