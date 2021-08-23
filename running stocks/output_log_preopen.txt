@@ -1,0 +1,3105 @@
+setting nextorderid: %d 85484
+Error. Id:  -1  Code:  2104  Msg:  Market data farm connection is OK:usfarm.nj
+Error. Id:  -1  Code:  2104  Msg:  Market data farm connection is OK:cashfarm
+Error. Id:  -1  Code:  2104  Msg:  Market data farm connection is OK:usfarm
+Error. Id:  -1  Code:  2106  Msg:  HMDS data farm connection is OK:ushmds
+Error. Id:  -1  Code:  2158  Msg:  Sec-def data farm connection is OK:secdefil
+AccountSummaryEnd. Req Id:  9002
+up tickers: ['MNSO', 'JWN', 'SAVE', 'SAVA', 'FLGT', 'FATE', 'MVST', 'WKHS', 'BTU', 'X', 'SFM', 'HRC', 'BHG', 'KTOS', 'SDGR', 'URBN', 'YSG', 'PVH', 'HMHC', 'SRPT', 'DOCN', 'AVYA', 'JKS', 'TBLA', 'AQUA', 'NNOX', 'IMAB', 'CSIQ', 'CVI', 'CHPT', 'CDE', 'PDCE', 'MTZ', 'ETRN', 'SIX', 'FUBO', 'INMD', 'CMA', 'PBF', 'XEC', 'RDFN', 'JBLU', 'HIMX', 'EGO', 'TPX', 'GENI', 'HTGC', 'MNR', 'SILV', 'COG', 'ASO', 'DM', 'CGC', 'PWSC', 'NG', 'ZIM', 'LMND', 'TLRY', 'CRK', 'LICY', 'HL', 'AG', 'KGC', 'AEO', 'FCEL', 'TGTX', 'ALK', 'SAND', 'SHCR', 'SKIN', 'GGB', 'MKFG', 'UP', 'FLR', 'AVPT', 'CAN', 'TDC', 'CANO', 'FULC', 'OSCR', 'PTEN', 'FEYE', 'M', 'MARA', 'DNUT', 'CRSP', 'UCTT', 'PLAY', 'CCJ', 'MLCO', 'NVTA', 'HBI', 'LAZR', 'INVA', 'POSH', 'IS', 'SKLZ', 'HRTX', 'OTLY', 'RUN', 'BZUN', 'NEGG', 'SMFR', 'DADA', 'PRMW', 'RRC', 'VIPS', 'YETI', 'YY', 'SKT', 'NCLH', 'KSS', 'LC', 'GPRO', 'FRO', 'AMKR', 'SPR', 'CWH', 'SBLK', 'BMBL', 'BARK', 'LPRO', 'GTES', 'DDD', 'VLDR', 'IBRX', 'CNK', 'FIGS', 'SKX', 'CRBU', 'TAL', 'GRWG', 'PAA', 'OPCH', 'COMP', 'DK', 'SYNH', 'AVIR', 'STOR', 'DBI', 'MTTR', 'AI', 'ROOT', 'CLOV', 'JMIA', 'MGNI', 'EXPI', 'WWE', 'TROX', 'TRQ', 'EQX', 'HYZN', 'ZH', 'TWOU', 'UCO', 'BBBY', 'WOOF', 'PSTG', 'BIGC', 'DQ', 'SM', 'IGT', 'FVRR', 'NKLA', 'ANF', 'MSTR', 'JAZZ', 'TSP', 'AU', 'OII', 'HP', 'VIR', 'PSFE', 'FGEN', 'AR', 'LTHM', 'AGI', 'STAG', 'CLB', 'HYFM', 'MUR', 'ETWO', 'DKS', 'GT', 'APA', 'R', 'ERF', 'AA', 'KC', 'MAXR', 'CNR', 'HYLN', 'LEV', 'FSR', 'ASTR', 'FINV', 'FOUR', 'MOMO', 'VTWO', 'WSC', 'AEVA', 'BEAM', 'SI', 'SHO', 'PAAS', 'CMRE', 'SLQT', 'HFC', 'MRVI', 'ALIT', 'SHLX', 'NOV', 'PCT', 'CIEN', 'INO', 'PVG', 'MP', 'ESI', 'SJI', 'SPWR', 'ACVA', 'DNMR', 'STEM', 'ZUO', 'IQ', 'HBM', 'REGI', 'DAO', 'YOU', 'QS', 'SSRM', 'CPRI', 'CF', 'TUP', 'ENVX', 'ELY', 'VSTO', 'GXO', 'AM', 'IYE', 'CPE', 'GOGL', 'YALA', 'AROC', 'CAR', 'CNDT', 'BLMN', 'PTRA', 'TUYA', 'CELH', 'MTDR', 'LX', 'SMAR', 'XPO', 'CYH', 'QFIN', 'SONO', 'FBP', 'PBI', 'BLDP', 'ETHE', 'NNDM', 'SFIX', 'CC', 'SABR', 'GFI', 'EQT', 'PUBM', 'FTI', 'EH', 'SSYS', 'WES', 'COOK', 'EDIT', 'GSM', 'OSTK', 'NIU', 'OLN', 'CRSR', 'KLIC', 'DVAX', 'AMRN', 'VZIO', 'OVV', 'ORGO', 'AUPH', 'ACB', 'RIOT', 'CWK', 'TRGP', 'HUYA', 'CRON', 'MRO', 'EAF', 'LAC', 'SHAK', 'LKNCY', 'GOEV', 'BLI', 'SNPO', 'FL', 'PFGC', 'ME', 'ENLC', 'APPS', 'CROX', 'MPLN', 'VXRT']
+down tickers: ['SBS', 'MCFE', 'BKD', 'RXN', 'YELP', 'TTM', 'MXCT', 'ENIA', 'SPLB', 'GOGO', 'BZ', 'LYFT', 'DRNA', 'VXX', 'DASH', 'PTON', 'TV', 'ALGN', 'PKI', 'IBKR', 'UBER', 'NEWR', 'BGS', 'PING', 'GM', 'ONB', 'VIXY']
+ticker: MNSO
+previous close: 12.4
+intended quantity: 193
+intended stop price: 14.69
+85484
+85484
+85484
+ticker: JWN
+previous close: 35.11
+intended quantity: 68
+intended stop price: 41.61
+85487
+85487
+85487
+ticker: SAVE
+previous close: 22.94
+intended quantity: 104
+intended stop price: 27.18
+85490
+85490
+85490
+ticker: SAVA
+previous close: 104.06
+intended quantity: 23
+intended stop price: 123.31
+85493
+85493
+85493
+ticker: FLGT
+previous close: 90.86
+intended quantity: 26
+intended stop price: 107.67
+85496
+85496
+85496
+ticker: FATE
+previous close: 67.01
+intended quantity: 35
+intended stop price: 79.41
+85499
+85499
+85499
+ticker: MVST
+previous close: 8.88
+intended quantity: 269
+intended stop price: 10.52
+85502
+85502
+85502
+ticker: WKHS
+previous close: 8.9
+intended quantity: 268
+intended stop price: 10.55
+85505
+85505
+85505
+ticker: BTU
+previous close: 12.65
+intended quantity: 189
+intended stop price: 14.99
+85508
+85508
+85508
+ticker: X
+previous close: 27.01
+intended quantity: 88
+intended stop price: 32.01
+85511
+85511
+85511
+ticker: SFM
+previous close: 24.95
+intended quantity: 95
+intended stop price: 29.57
+85514
+85514
+85514
+ticker: HRC
+previous close: 134.18
+intended quantity: 17
+intended stop price: 159.0
+85517
+85517
+85517
+ticker: BHG
+previous close: 9.9
+intended quantity: 241
+intended stop price: 11.73
+85520
+85520
+85520
+ticker: KTOS
+previous close: 21.97
+intended quantity: 108
+intended stop price: 26.03
+85523
+85523
+85523
+ticker: SDGR
+previous close: 54.64
+intended quantity: 43
+intended stop price: 64.75
+85526
+85526
+85526
+orderStatus - orderid: 85485 status: PreSubmitted filled 0.0 remaining 296.0 lastFillPrice 0.0
+orderStatus - orderid: 85486 status: PreSubmitted filled 0.0 remaining 296.0 lastFillPrice 0.0
+orderStatus - orderid: 85488 status: PreSubmitted filled 0.0 remaining 104.0 lastFillPrice 0.0
+orderStatus - orderid: 85489 status: PreSubmitted filled 0.0 remaining 104.0 lastFillPrice 0.0
+orderStatus - orderid: 85494 status: PreSubmitted filled 0.0 remaining 35.0 lastFillPrice 0.0
+orderStatus - orderid: 85495 status: PreSubmitted filled 0.0 remaining 35.0 lastFillPrice 0.0
+orderStatus - orderid: 85484 status: Submitted filled 0.0 remaining 296.0 lastFillPrice 0.0
+orderStatus - orderid: 85497 status: PreSubmitted filled 0.0 remaining 40.0 lastFillPrice 0.0
+orderStatus - orderid: 85498 status: PreSubmitted filled 0.0 remaining 40.0 lastFillPrice 0.0
+orderStatus - orderid: 85500 status: PreSubmitted filled 0.0 remaining 54.0 lastFillPrice 0.0
+orderStatus - orderid: 85501 status: PreSubmitted filled 0.0 remaining 54.0 lastFillPrice 0.0
+orderStatus - orderid: 85503 status: PreSubmitted filled 0.0 remaining 414.0 lastFillPrice 0.0
+orderStatus - orderid: 85504 status: PreSubmitted filled 0.0 remaining 414.0 lastFillPrice 0.0
+orderStatus - orderid: 85487 status: Submitted filled 0.0 remaining 104.0 lastFillPrice 0.0
+orderStatus - orderid: 85493 status: Submitted filled 0.0 remaining 35.0 lastFillPrice 0.0
+orderStatus - orderid: 85506 status: PreSubmitted filled 0.0 remaining 413.0 lastFillPrice 0.0
+orderStatus - orderid: 85507 status: PreSubmitted filled 0.0 remaining 413.0 lastFillPrice 0.0
+orderStatus - orderid: 85496 status: Submitted filled 0.0 remaining 40.0 lastFillPrice 0.0
+orderStatus - orderid: 85509 status: PreSubmitted filled 0.0 remaining 291.0 lastFillPrice 0.0
+orderStatus - orderid: 85510 status: PreSubmitted filled 0.0 remaining 291.0 lastFillPrice 0.0
+orderStatus - orderid: 85491 status: PreSubmitted filled 0.0 remaining 160.0 lastFillPrice 0.0
+orderStatus - orderid: 85492 status: PreSubmitted filled 0.0 remaining 160.0 lastFillPrice 0.0
+orderStatus - orderid: 85499 status: Submitted filled 0.0 remaining 54.0 lastFillPrice 0.0
+orderStatus - orderid: 85502 status: Submitted filled 0.0 remaining 414.0 lastFillPrice 0.0
+orderStatus - orderid: 85505 status: Submitted filled 0.0 remaining 413.0 lastFillPrice 0.0
+orderStatus - orderid: 85512 status: PreSubmitted filled 0.0 remaining 136.0 lastFillPrice 0.0
+orderStatus - orderid: 85513 status: PreSubmitted filled 0.0 remaining 136.0 lastFillPrice 0.0
+orderStatus - orderid: 85515 status: PreSubmitted filled 0.0 remaining 147.0 lastFillPrice 0.0
+orderStatus - orderid: 85516 status: PreSubmitted filled 0.0 remaining 147.0 lastFillPrice 0.0
+orderStatus - orderid: 85508 status: Submitted filled 0.0 remaining 291.0 lastFillPrice 0.0
+orderStatus - orderid: 85490 status: Submitted filled 0.0 remaining 160.0 lastFillPrice 0.0
+orderStatus - orderid: 85518 status: PreSubmitted filled 0.0 remaining 27.0 lastFillPrice 0.0
+orderStatus - orderid: 85519 status: PreSubmitted filled 0.0 remaining 27.0 lastFillPrice 0.0
+orderStatus - orderid: 85521 status: PreSubmitted filled 0.0 remaining 371.0 lastFillPrice 0.0
+orderStatus - orderid: 85522 status: PreSubmitted filled 0.0 remaining 371.0 lastFillPrice 0.0
+orderStatus - orderid: 85511 status: Submitted filled 0.0 remaining 136.0 lastFillPrice 0.0
+orderStatus - orderid: 85514 status: Submitted filled 0.0 remaining 147.0 lastFillPrice 0.0
+orderStatus - orderid: 85524 status: PreSubmitted filled 0.0 remaining 167.0 lastFillPrice 0.0
+orderStatus - orderid: 85525 status: PreSubmitted filled 0.0 remaining 167.0 lastFillPrice 0.0
+orderStatus - orderid: 85517 status: Submitted filled 0.0 remaining 27.0 lastFillPrice 0.0
+orderStatus - orderid: 85520 status: Submitted filled 0.0 remaining 371.0 lastFillPrice 0.0
+orderStatus - orderid: 85527 status: PreSubmitted filled 0.0 remaining 67.0 lastFillPrice 0.0
+orderStatus - orderid: 85528 status: PreSubmitted filled 0.0 remaining 67.0 lastFillPrice 0.0
+orderStatus - orderid: 85523 status: Submitted filled 0.0 remaining 167.0 lastFillPrice 0.0
+orderStatus - orderid: 85526 status: Submitted filled 0.0 remaining 67.0 lastFillPrice 0.0
+ticker: URBN
+previous close: 37.81
+intended quantity: 63
+intended stop price: 44.8
+85529
+85529
+85529
+ticker: YSG
+previous close: 5.54
+intended quantity: 432
+intended stop price: 6.56
+85532
+85532
+85532
+ticker: PVH
+previous close: 104.55
+intended quantity: 22
+intended stop price: 123.89
+85535
+85535
+85535
+ticker: HMHC
+previous close: 13.77
+intended quantity: 173
+intended stop price: 16.32
+85538
+85538
+85538
+ticker: SRPT
+previous close: 75.31
+intended quantity: 31
+intended stop price: 89.24
+85541
+85541
+85541
+ticker: DOCN
+previous close: 53.17
+intended quantity: 45
+intended stop price: 63.01
+85544
+85544
+85544
+ticker: AVYA
+previous close: 20.07
+intended quantity: 119
+intended stop price: 23.78
+85547
+85547
+85547
+ticker: JKS
+previous close: 40.16
+intended quantity: 59
+intended stop price: 47.59
+85550
+85550
+85550
+ticker: TBLA
+previous close: 7.8
+intended quantity: 306
+intended stop price: 9.24
+85553
+85553
+85553
+ticker: AQUA
+previous close: 38.51
+intended quantity: 62
+intended stop price: 45.63
+85556
+85556
+85556
+ticker: NNOX
+previous close: 22.57
+intended quantity: 106
+intended stop price: 26.75
+85559
+85559
+85559
+ticker: IMAB
+previous close: 59.78
+intended quantity: 40
+intended stop price: 70.84
+85562
+85562
+85562
+ticker: CSIQ
+previous close: 32.36
+intended quantity: 73
+intended stop price: 38.35
+85565
+85565
+85565
+ticker: CVI
+previous close: 11.83
+intended quantity: 202
+intended stop price: 14.02
+85568
+85568
+85568
+ticker: CHPT
+previous close: 21.26
+intended quantity: 112
+intended stop price: 25.19
+85571
+85571
+85571
+orderStatus - orderid: 85530 status: PreSubmitted filled 0.0 remaining 97.0 lastFillPrice 0.0
+orderStatus - orderid: 85531 status: PreSubmitted filled 0.0 remaining 97.0 lastFillPrice 0.0
+orderStatus - orderid: 85529 status: Submitted filled 0.0 remaining 97.0 lastFillPrice 0.0
+orderStatus - orderid: 85533 status: PreSubmitted filled 0.0 remaining 664.0 lastFillPrice 0.0
+orderStatus - orderid: 85534 status: PreSubmitted filled 0.0 remaining 664.0 lastFillPrice 0.0
+orderStatus - orderid: 85536 status: PreSubmitted filled 0.0 remaining 35.0 lastFillPrice 0.0
+orderStatus - orderid: 85537 status: PreSubmitted filled 0.0 remaining 35.0 lastFillPrice 0.0
+orderStatus - orderid: 85542 status: PreSubmitted filled 0.0 remaining 48.0 lastFillPrice 0.0
+orderStatus - orderid: 85543 status: PreSubmitted filled 0.0 remaining 48.0 lastFillPrice 0.0
+orderStatus - orderid: 85539 status: PreSubmitted filled 0.0 remaining 267.0 lastFillPrice 0.0
+orderStatus - orderid: 85540 status: PreSubmitted filled 0.0 remaining 267.0 lastFillPrice 0.0
+orderStatus - orderid: 85545 status: PreSubmitted filled 0.0 remaining 69.0 lastFillPrice 0.0
+orderStatus - orderid: 85546 status: PreSubmitted filled 0.0 remaining 69.0 lastFillPrice 0.0
+orderStatus - orderid: 85532 status: Submitted filled 0.0 remaining 664.0 lastFillPrice 0.0
+orderStatus - orderid: 85535 status: Submitted filled 0.0 remaining 35.0 lastFillPrice 0.0
+orderStatus - orderid: 85538 status: Submitted filled 0.0 remaining 267.0 lastFillPrice 0.0
+orderStatus - orderid: 85541 status: Submitted filled 0.0 remaining 48.0 lastFillPrice 0.0
+orderStatus - orderid: 85544 status: Submitted filled 0.0 remaining 69.0 lastFillPrice 0.0
+orderStatus - orderid: 85548 status: PreSubmitted filled 0.0 remaining 183.0 lastFillPrice 0.0
+orderStatus - orderid: 85549 status: PreSubmitted filled 0.0 remaining 183.0 lastFillPrice 0.0
+orderStatus - orderid: 85560 status: PreSubmitted filled 0.0 remaining 163.0 lastFillPrice 0.0
+orderStatus - orderid: 85561 status: PreSubmitted filled 0.0 remaining 163.0 lastFillPrice 0.0
+orderStatus - orderid: 85551 status: PreSubmitted filled 0.0 remaining 91.0 lastFillPrice 0.0
+orderStatus - orderid: 85552 status: PreSubmitted filled 0.0 remaining 91.0 lastFillPrice 0.0
+orderStatus - orderid: 85547 status: Submitted filled 0.0 remaining 183.0 lastFillPrice 0.0
+orderStatus - orderid: 85554 status: PreSubmitted filled 0.0 remaining 472.0 lastFillPrice 0.0
+orderStatus - orderid: 85555 status: PreSubmitted filled 0.0 remaining 472.0 lastFillPrice 0.0
+orderStatus - orderid: 85563 status: PreSubmitted filled 0.0 remaining 61.0 lastFillPrice 0.0
+orderStatus - orderid: 85564 status: PreSubmitted filled 0.0 remaining 61.0 lastFillPrice 0.0
+orderStatus - orderid: 85559 status: Submitted filled 0.0 remaining 163.0 lastFillPrice 0.0
+orderStatus - orderid: 85550 status: Submitted filled 0.0 remaining 91.0 lastFillPrice 0.0
+orderStatus - orderid: 85557 status: PreSubmitted filled 0.0 remaining 95.0 lastFillPrice 0.0
+orderStatus - orderid: 85558 status: PreSubmitted filled 0.0 remaining 95.0 lastFillPrice 0.0
+orderStatus - orderid: 85566 status: PreSubmitted filled 0.0 remaining 113.0 lastFillPrice 0.0
+orderStatus - orderid: 85567 status: PreSubmitted filled 0.0 remaining 113.0 lastFillPrice 0.0
+orderStatus - orderid: 85553 status: Submitted filled 0.0 remaining 472.0 lastFillPrice 0.0
+orderStatus - orderid: 85569 status: PreSubmitted filled 0.0 remaining 311.0 lastFillPrice 0.0
+orderStatus - orderid: 85570 status: PreSubmitted filled 0.0 remaining 311.0 lastFillPrice 0.0
+orderStatus - orderid: 85556 status: Submitted filled 0.0 remaining 95.0 lastFillPrice 0.0
+orderStatus - orderid: 85565 status: Submitted filled 0.0 remaining 113.0 lastFillPrice 0.0
+orderStatus - orderid: 85562 status: Submitted filled 0.0 remaining 61.0 lastFillPrice 0.0
+orderStatus - orderid: 85572 status: PreSubmitted filled 0.0 remaining 173.0 lastFillPrice 0.0
+orderStatus - orderid: 85573 status: PreSubmitted filled 0.0 remaining 173.0 lastFillPrice 0.0
+orderStatus - orderid: 85568 status: Submitted filled 0.0 remaining 311.0 lastFillPrice 0.0
+orderStatus - orderid: 85571 status: Submitted filled 0.0 remaining 173.0 lastFillPrice 0.0
+ticker: CDE
+previous close: 6.2
+intended quantity: 386
+intended stop price: 7.35
+85574
+85574
+85574
+ticker: PDCE
+previous close: 36.0
+intended quantity: 66
+intended stop price: 42.66
+85577
+85577
+85577
+ticker: MTZ
+previous close: 89.48
+intended quantity: 26
+intended stop price: 106.03
+85580
+85580
+85580
+ticker: ETRN
+previous close: 8.2
+intended quantity: 291
+intended stop price: 9.72
+85583
+85583
+85583
+ticker: SIX
+previous close: 39.04
+intended quantity: 61
+intended stop price: 46.26
+85586
+85586
+85586
+ticker: FUBO
+previous close: 25.36
+intended quantity: 94
+intended stop price: 30.05
+85589
+85589
+85589
+ticker: INMD
+previous close: 118.52
+intended quantity: 20
+intended stop price: 140.45
+85592
+85592
+85592
+ticker: CMA
+previous close: 71.28
+intended quantity: 33
+intended stop price: 84.47
+85595
+85595
+85595
+ticker: PBF
+previous close: 8.37
+intended quantity: 285
+intended stop price: 9.92
+85598
+85598
+85598
+ticker: XEC
+previous close: 57.83
+intended quantity: 41
+intended stop price: 68.53
+85601
+85601
+85601
+ticker: RDFN
+previous close: 47.57
+intended quantity: 50
+intended stop price: 56.37
+85604
+85604
+85604
+ticker: JBLU
+previous close: 14.16
+intended quantity: 169
+intended stop price: 16.78
+85607
+85607
+85607
+ticker: HIMX
+previous close: 12.04
+intended quantity: 198
+intended stop price: 14.27
+85610
+85610
+85610
+ticker: EGO
+previous close: 8.08
+intended quantity: 296
+intended stop price: 9.57
+85613
+85613
+85613
+ticker: TPX
+previous close: 42.59
+intended quantity: 56
+intended stop price: 50.47
+85616
+85616
+85616
+orderStatus - orderid: 85575 status: PreSubmitted filled 0.0 remaining 593.0 lastFillPrice 0.0
+orderStatus - orderid: 85576 status: PreSubmitted filled 0.0 remaining 593.0 lastFillPrice 0.0
+orderStatus - orderid: 85574 status: Submitted filled 0.0 remaining 593.0 lastFillPrice 0.0
+orderStatus - orderid: 85581 status: PreSubmitted filled 0.0 remaining 41.0 lastFillPrice 0.0
+orderStatus - orderid: 85582 status: PreSubmitted filled 0.0 remaining 41.0 lastFillPrice 0.0
+orderStatus - orderid: 85578 status: PreSubmitted filled 0.0 remaining 102.0 lastFillPrice 0.0
+orderStatus - orderid: 85579 status: PreSubmitted filled 0.0 remaining 102.0 lastFillPrice 0.0
+orderStatus - orderid: 85584 status: PreSubmitted filled 0.0 remaining 449.0 lastFillPrice 0.0
+orderStatus - orderid: 85585 status: PreSubmitted filled 0.0 remaining 449.0 lastFillPrice 0.0
+orderStatus - orderid: 85590 status: PreSubmitted filled 0.0 remaining 145.0 lastFillPrice 0.0
+orderStatus - orderid: 85591 status: PreSubmitted filled 0.0 remaining 145.0 lastFillPrice 0.0
+orderStatus - orderid: 85593 status: PreSubmitted filled 0.0 remaining 31.0 lastFillPrice 0.0
+orderStatus - orderid: 85594 status: PreSubmitted filled 0.0 remaining 31.0 lastFillPrice 0.0
+orderStatus - orderid: 85580 status: Submitted filled 0.0 remaining 41.0 lastFillPrice 0.0
+orderStatus - orderid: 85577 status: Submitted filled 0.0 remaining 102.0 lastFillPrice 0.0
+orderStatus - orderid: 85587 status: PreSubmitted filled 0.0 remaining 94.0 lastFillPrice 0.0
+orderStatus - orderid: 85588 status: PreSubmitted filled 0.0 remaining 94.0 lastFillPrice 0.0
+orderStatus - orderid: 85596 status: PreSubmitted filled 0.0 remaining 51.0 lastFillPrice 0.0
+orderStatus - orderid: 85597 status: PreSubmitted filled 0.0 remaining 51.0 lastFillPrice 0.0
+orderStatus - orderid: 85583 status: Submitted filled 0.0 remaining 449.0 lastFillPrice 0.0
+orderStatus - orderid: 85589 status: Submitted filled 0.0 remaining 145.0 lastFillPrice 0.0
+orderStatus - orderid: 85592 status: Submitted filled 0.0 remaining 31.0 lastFillPrice 0.0
+orderStatus - orderid: 85586 status: Submitted filled 0.0 remaining 94.0 lastFillPrice 0.0
+orderStatus - orderid: 85595 status: Submitted filled 0.0 remaining 51.0 lastFillPrice 0.0
+orderStatus - orderid: 85605 status: PreSubmitted filled 0.0 remaining 77.0 lastFillPrice 0.0
+orderStatus - orderid: 85606 status: PreSubmitted filled 0.0 remaining 77.0 lastFillPrice 0.0
+orderStatus - orderid: 85599 status: PreSubmitted filled 0.0 remaining 439.0 lastFillPrice 0.0
+orderStatus - orderid: 85600 status: PreSubmitted filled 0.0 remaining 439.0 lastFillPrice 0.0
+orderStatus - orderid: 85602 status: PreSubmitted filled 0.0 remaining 63.0 lastFillPrice 0.0
+orderStatus - orderid: 85603 status: PreSubmitted filled 0.0 remaining 63.0 lastFillPrice 0.0
+orderStatus - orderid: 85608 status: PreSubmitted filled 0.0 remaining 260.0 lastFillPrice 0.0
+orderStatus - orderid: 85609 status: PreSubmitted filled 0.0 remaining 260.0 lastFillPrice 0.0
+orderStatus - orderid: 85611 status: PreSubmitted filled 0.0 remaining 305.0 lastFillPrice 0.0
+orderStatus - orderid: 85612 status: PreSubmitted filled 0.0 remaining 305.0 lastFillPrice 0.0
+orderStatus - orderid: 85598 status: Submitted filled 0.0 remaining 439.0 lastFillPrice 0.0
+orderStatus - orderid: 85604 status: Submitted filled 0.0 remaining 77.0 lastFillPrice 0.0
+orderStatus - orderid: 85614 status: PreSubmitted filled 0.0 remaining 455.0 lastFillPrice 0.0
+orderStatus - orderid: 85615 status: PreSubmitted filled 0.0 remaining 455.0 lastFillPrice 0.0
+orderStatus - orderid: 85601 status: Submitted filled 0.0 remaining 63.0 lastFillPrice 0.0
+orderStatus - orderid: 85607 status: Submitted filled 0.0 remaining 260.0 lastFillPrice 0.0
+orderStatus - orderid: 85610 status: Submitted filled 0.0 remaining 305.0 lastFillPrice 0.0
+orderStatus - orderid: 85613 status: Submitted filled 0.0 remaining 455.0 lastFillPrice 0.0
+orderStatus - orderid: 85617 status: PreSubmitted filled 0.0 remaining 86.0 lastFillPrice 0.0
+orderStatus - orderid: 85618 status: PreSubmitted filled 0.0 remaining 86.0 lastFillPrice 0.0
+orderStatus - orderid: 85616 status: Submitted filled 0.0 remaining 86.0 lastFillPrice 0.0
+ticker: GENI
+previous close: 17.26
+intended quantity: 138
+intended stop price: 20.45
+85619
+85619
+85619
+ticker: HTGC
+previous close: 16.7
+intended quantity: 143
+intended stop price: 19.79
+85622
+85622
+85622
+ticker: MNR
+previous close: 19.07
+intended quantity: 125
+intended stop price: 22.6
+85625
+85625
+85625
+ticker: SILV
+previous close: 7.12
+intended quantity: 336
+intended stop price: 8.44
+85628
+85628
+85628
+ticker: COG
+previous close: 14.42
+intended quantity: 166
+intended stop price: 17.09
+85631
+85631
+85631
+ticker: ASO
+previous close: 37.08
+intended quantity: 64
+intended stop price: 43.94
+85634
+85634
+85634
+ticker: DM
+previous close: 7.58
+intended quantity: 315
+intended stop price: 8.98
+85637
+85637
+85637
+ticker: CGC
+previous close: 16.69
+intended quantity: 143
+intended stop price: 19.78
+85640
+85640
+85640
+ticker: PWSC
+previous close: 27.71
+intended quantity: 86
+intended stop price: 32.84
+85643
+85643
+85643
+ticker: NG
+previous close: 6.89
+intended quantity: 347
+intended stop price: 8.16
+85646
+85646
+85646
+ticker: ZIM
+previous close: 46.07
+intended quantity: 51
+intended stop price: 54.59
+85649
+85649
+85649
+ticker: LMND
+previous close: 68.94
+intended quantity: 34
+intended stop price: 81.69
+85652
+85652
+85652
+ticker: TLRY
+previous close: 12.83
+intended quantity: 186
+intended stop price: 15.2
+85655
+85655
+85655
+ticker: CRK
+previous close: 5.23
+intended quantity: 457
+intended stop price: 6.2
+85658
+85658
+85658
+ticker: LICY
+previous close: 8.68
+intended quantity: 275
+intended stop price: 10.29
+85661
+85661
+85661
+orderStatus - orderid: 85620 status: PreSubmitted filled 0.0 remaining 213.0 lastFillPrice 0.0
+orderStatus - orderid: 85621 status: PreSubmitted filled 0.0 remaining 213.0 lastFillPrice 0.0
+orderStatus - orderid: 85619 status: Submitted filled 0.0 remaining 213.0 lastFillPrice 0.0
+orderStatus - orderid: 85623 status: PreSubmitted filled 0.0 remaining 220.0 lastFillPrice 0.0
+orderStatus - orderid: 85624 status: PreSubmitted filled 0.0 remaining 220.0 lastFillPrice 0.0
+orderStatus - orderid: 85626 status: PreSubmitted filled 0.0 remaining 193.0 lastFillPrice 0.0
+orderStatus - orderid: 85627 status: PreSubmitted filled 0.0 remaining 193.0 lastFillPrice 0.0
+orderStatus - orderid: 85644 status: PreSubmitted filled 0.0 remaining 132.0 lastFillPrice 0.0
+orderStatus - orderid: 85645 status: PreSubmitted filled 0.0 remaining 132.0 lastFillPrice 0.0
+orderStatus - orderid: 85635 status: PreSubmitted filled 0.0 remaining 99.0 lastFillPrice 0.0
+orderStatus - orderid: 85636 status: PreSubmitted filled 0.0 remaining 99.0 lastFillPrice 0.0
+orderStatus - orderid: 85629 status: PreSubmitted filled 0.0 remaining 517.0 lastFillPrice 0.0
+orderStatus - orderid: 85630 status: PreSubmitted filled 0.0 remaining 517.0 lastFillPrice 0.0
+orderStatus - orderid: 85622 status: Submitted filled 0.0 remaining 220.0 lastFillPrice 0.0
+orderStatus - orderid: 85625 status: Submitted filled 0.0 remaining 193.0 lastFillPrice 0.0
+orderStatus - orderid: 85632 status: PreSubmitted filled 0.0 remaining 255.0 lastFillPrice 0.0
+orderStatus - orderid: 85633 status: PreSubmitted filled 0.0 remaining 255.0 lastFillPrice 0.0
+orderStatus - orderid: 85638 status: PreSubmitted filled 0.0 remaining 485.0 lastFillPrice 0.0
+orderStatus - orderid: 85639 status: PreSubmitted filled 0.0 remaining 485.0 lastFillPrice 0.0
+orderStatus - orderid: 85641 status: PreSubmitted filled 0.0 remaining 220.0 lastFillPrice 0.0
+orderStatus - orderid: 85642 status: PreSubmitted filled 0.0 remaining 220.0 lastFillPrice 0.0
+orderStatus - orderid: 85628 status: Submitted filled 0.0 remaining 517.0 lastFillPrice 0.0
+orderStatus - orderid: 85634 status: Submitted filled 0.0 remaining 99.0 lastFillPrice 0.0
+orderStatus - orderid: 85631 status: Submitted filled 0.0 remaining 255.0 lastFillPrice 0.0
+orderStatus - orderid: 85637 status: Submitted filled 0.0 remaining 485.0 lastFillPrice 0.0
+orderStatus - orderid: 85647 status: PreSubmitted filled 0.0 remaining 534.0 lastFillPrice 0.0
+orderStatus - orderid: 85648 status: PreSubmitted filled 0.0 remaining 534.0 lastFillPrice 0.0
+orderStatus - orderid: 85653 status: PreSubmitted filled 0.0 remaining 53.0 lastFillPrice 0.0
+orderStatus - orderid: 85654 status: PreSubmitted filled 0.0 remaining 53.0 lastFillPrice 0.0
+orderStatus - orderid: 85640 status: Submitted filled 0.0 remaining 220.0 lastFillPrice 0.0
+orderStatus - orderid: 85643 status: Submitted filled 0.0 remaining 132.0 lastFillPrice 0.0
+orderStatus - orderid: 85659 status: PreSubmitted filled 0.0 remaining 704.0 lastFillPrice 0.0
+orderStatus - orderid: 85660 status: PreSubmitted filled 0.0 remaining 704.0 lastFillPrice 0.0
+orderStatus - orderid: 85656 status: PreSubmitted filled 0.0 remaining 287.0 lastFillPrice 0.0
+orderStatus - orderid: 85657 status: PreSubmitted filled 0.0 remaining 287.0 lastFillPrice 0.0
+orderStatus - orderid: 85650 status: PreSubmitted filled 0.0 remaining 79.0 lastFillPrice 0.0
+orderStatus - orderid: 85651 status: PreSubmitted filled 0.0 remaining 79.0 lastFillPrice 0.0
+orderStatus - orderid: 85652 status: Submitted filled 0.0 remaining 53.0 lastFillPrice 0.0
+orderStatus - orderid: 85646 status: Submitted filled 0.0 remaining 534.0 lastFillPrice 0.0
+orderStatus - orderid: 85658 status: Submitted filled 0.0 remaining 704.0 lastFillPrice 0.0
+orderStatus - orderid: 85662 status: PreSubmitted filled 0.0 remaining 424.0 lastFillPrice 0.0
+orderStatus - orderid: 85663 status: PreSubmitted filled 0.0 remaining 424.0 lastFillPrice 0.0
+orderStatus - orderid: 85649 status: Submitted filled 0.0 remaining 79.0 lastFillPrice 0.0
+orderStatus - orderid: 85655 status: Submitted filled 0.0 remaining 287.0 lastFillPrice 0.0
+Error. Id:  85661  Code:  404  Msg:  Order held while securities are located.
+orderStatus - orderid: 85661 status: PreSubmitted filled 0.0 remaining 424.0 lastFillPrice 0.0
+ticker: HL
+previous close: 5.52
+intended quantity: 433
+intended stop price: 6.54
+85664
+85664
+85664
+ticker: AG
+previous close: 11.84
+intended quantity: 202
+intended stop price: 14.03
+85667
+85667
+85667
+ticker: KGC
+previous close: 5.71
+intended quantity: 419
+intended stop price: 6.77
+85670
+85670
+85670
+ticker: AEO
+previous close: 32.37
+intended quantity: 73
+intended stop price: 38.36
+85673
+85673
+85673
+ticker: FCEL
+previous close: 5.78
+intended quantity: 414
+intended stop price: 6.85
+85676
+85676
+85676
+ticker: TGTX
+previous close: 24.0
+intended quantity: 99
+intended stop price: 28.44
+85679
+85679
+85679
+ticker: ALK
+previous close: 54.35
+intended quantity: 44
+intended stop price: 64.4
+85682
+85682
+85682
+ticker: SAND
+previous close: 6.22
+intended quantity: 384
+intended stop price: 7.37
+85685
+85685
+85685
+ticker: SHCR
+previous close: 6.83
+intended quantity: 350
+intended stop price: 8.09
+85688
+85688
+85688
+ticker: SKIN
+previous close: 21.57
+intended quantity: 110
+intended stop price: 25.56
+85691
+85691
+85691
+ticker: GGB
+previous close: 5.09
+intended quantity: 470
+intended stop price: 6.03
+85694
+85694
+85694
+ticker: MKFG
+previous close: 7.97
+intended quantity: 300
+intended stop price: 9.44
+85697
+85697
+85697
+ticker: UP
+previous close: 7.81
+intended quantity: 306
+intended stop price: 9.25
+85700
+85700
+85700
+ticker: FLR
+previous close: 15.75
+intended quantity: 151
+intended stop price: 18.66
+85703
+85703
+85703
+ticker: AVPT
+previous close: 8.82
+intended quantity: 271
+intended stop price: 10.45
+85706
+85706
+85706
+orderStatus - orderid: 85665 status: PreSubmitted filled 0.0 remaining 667.0 lastFillPrice 0.0
+orderStatus - orderid: 85666 status: PreSubmitted filled 0.0 remaining 667.0 lastFillPrice 0.0
+orderStatus - orderid: 85664 status: Submitted filled 0.0 remaining 667.0 lastFillPrice 0.0
+orderStatus - orderid: 85674 status: PreSubmitted filled 0.0 remaining 113.0 lastFillPrice 0.0
+orderStatus - orderid: 85675 status: PreSubmitted filled 0.0 remaining 113.0 lastFillPrice 0.0
+orderStatus - orderid: 85671 status: PreSubmitted filled 0.0 remaining 644.0 lastFillPrice 0.0
+orderStatus - orderid: 85672 status: PreSubmitted filled 0.0 remaining 644.0 lastFillPrice 0.0
+orderStatus - orderid: 85677 status: PreSubmitted filled 0.0 remaining 637.0 lastFillPrice 0.0
+orderStatus - orderid: 85678 status: PreSubmitted filled 0.0 remaining 637.0 lastFillPrice 0.0
+orderStatus - orderid: 85680 status: PreSubmitted filled 0.0 remaining 153.0 lastFillPrice 0.0
+orderStatus - orderid: 85681 status: PreSubmitted filled 0.0 remaining 153.0 lastFillPrice 0.0
+orderStatus - orderid: 85673 status: Submitted filled 0.0 remaining 113.0 lastFillPrice 0.0
+orderStatus - orderid: 85670 status: Submitted filled 0.0 remaining 644.0 lastFillPrice 0.0
+orderStatus - orderid: 85683 status: PreSubmitted filled 0.0 remaining 67.0 lastFillPrice 0.0
+orderStatus - orderid: 85684 status: PreSubmitted filled 0.0 remaining 67.0 lastFillPrice 0.0
+orderStatus - orderid: 85686 status: PreSubmitted filled 0.0 remaining 592.0 lastFillPrice 0.0
+orderStatus - orderid: 85687 status: PreSubmitted filled 0.0 remaining 592.0 lastFillPrice 0.0
+orderStatus - orderid: 85676 status: Submitted filled 0.0 remaining 637.0 lastFillPrice 0.0
+orderStatus - orderid: 85679 status: Submitted filled 0.0 remaining 153.0 lastFillPrice 0.0
+orderStatus - orderid: 85668 status: PreSubmitted filled 0.0 remaining 311.0 lastFillPrice 0.0
+orderStatus - orderid: 85669 status: PreSubmitted filled 0.0 remaining 311.0 lastFillPrice 0.0
+orderStatus - orderid: 85689 status: PreSubmitted filled 0.0 remaining 539.0 lastFillPrice 0.0
+orderStatus - orderid: 85690 status: PreSubmitted filled 0.0 remaining 539.0 lastFillPrice 0.0
+orderStatus - orderid: 85685 status: Submitted filled 0.0 remaining 592.0 lastFillPrice 0.0
+orderStatus - orderid: 85682 status: Submitted filled 0.0 remaining 67.0 lastFillPrice 0.0
+orderStatus - orderid: 85692 status: PreSubmitted filled 0.0 remaining 170.0 lastFillPrice 0.0
+orderStatus - orderid: 85693 status: PreSubmitted filled 0.0 remaining 170.0 lastFillPrice 0.0
+orderStatus - orderid: 85695 status: PreSubmitted filled 0.0 remaining 723.0 lastFillPrice 0.0
+orderStatus - orderid: 85696 status: PreSubmitted filled 0.0 remaining 723.0 lastFillPrice 0.0
+orderStatus - orderid: 85667 status: Submitted filled 0.0 remaining 311.0 lastFillPrice 0.0
+orderStatus - orderid: 85688 status: Submitted filled 0.0 remaining 539.0 lastFillPrice 0.0
+orderStatus - orderid: 85698 status: PreSubmitted filled 0.0 remaining 462.0 lastFillPrice 0.0
+orderStatus - orderid: 85699 status: PreSubmitted filled 0.0 remaining 462.0 lastFillPrice 0.0
+orderStatus - orderid: 85701 status: PreSubmitted filled 0.0 remaining 471.0 lastFillPrice 0.0
+orderStatus - orderid: 85702 status: PreSubmitted filled 0.0 remaining 471.0 lastFillPrice 0.0
+orderStatus - orderid: 85694 status: Submitted filled 0.0 remaining 723.0 lastFillPrice 0.0
+orderStatus - orderid: 85691 status: Submitted filled 0.0 remaining 170.0 lastFillPrice 0.0
+orderStatus - orderid: 85704 status: PreSubmitted filled 0.0 remaining 233.0 lastFillPrice 0.0
+orderStatus - orderid: 85705 status: PreSubmitted filled 0.0 remaining 233.0 lastFillPrice 0.0
+orderStatus - orderid: 85707 status: PreSubmitted filled 0.0 remaining 417.0 lastFillPrice 0.0
+orderStatus - orderid: 85708 status: PreSubmitted filled 0.0 remaining 417.0 lastFillPrice 0.0
+orderStatus - orderid: 85700 status: Submitted filled 0.0 remaining 471.0 lastFillPrice 0.0
+orderStatus - orderid: 85697 status: Submitted filled 0.0 remaining 462.0 lastFillPrice 0.0
+orderStatus - orderid: 85703 status: Submitted filled 0.0 remaining 233.0 lastFillPrice 0.0
+orderStatus - orderid: 85706 status: Submitted filled 0.0 remaining 417.0 lastFillPrice 0.0
+ticker: CAN
+previous close: 8.06
+intended quantity: 296
+intended stop price: 9.55
+85709
+85709
+85709
+ticker: TDC
+previous close: 52.41
+intended quantity: 45
+intended stop price: 62.11
+85712
+85712
+85712
+ticker: CANO
+previous close: 10.21
+intended quantity: 234
+intended stop price: 12.1
+85715
+85715
+85715
+ticker: FULC
+previous close: 25.67
+intended quantity: 93
+intended stop price: 30.42
+85718
+85718
+85718
+ticker: OSCR
+previous close: 13.58
+intended quantity: 176
+intended stop price: 16.09
+85721
+85721
+85721
+ticker: PTEN
+previous close: 6.6
+intended quantity: 362
+intended stop price: 7.82
+85724
+85724
+85724
+ticker: FEYE
+previous close: 17.01
+intended quantity: 140
+intended stop price: 20.16
+85727
+85727
+85727
+ticker: M
+previous close: 22.39
+intended quantity: 106
+intended stop price: 26.53
+85730
+85730
+85730
+ticker: MARA
+previous close: 35.26
+intended quantity: 67
+intended stop price: 41.78
+85733
+85733
+85733
+ticker: DNUT
+previous close: 15.07
+intended quantity: 158
+intended stop price: 17.86
+85736
+85736
+85736
+ticker: CRSP
+previous close: 117.22
+intended quantity: 20
+intended stop price: 138.91
+85739
+85739
+85739
+ticker: UCTT
+previous close: 40.46
+intended quantity: 59
+intended stop price: 47.95
+85742
+85742
+85742
+ticker: PLAY
+previous close: 31.96
+intended quantity: 74
+intended stop price: 37.87
+85745
+85745
+85745
+ticker: CCJ
+previous close: 16.11
+intended quantity: 148
+intended stop price: 19.09
+85748
+85748
+85748
+ticker: MLCO
+previous close: 10.84
+intended quantity: 220
+intended stop price: 12.85
+85751
+85751
+85751
+orderStatus - orderid: 85710 status: PreSubmitted filled 0.0 remaining 456.0 lastFillPrice 0.0
+orderStatus - orderid: 85711 status: PreSubmitted filled 0.0 remaining 456.0 lastFillPrice 0.0
+orderStatus - orderid: 85709 status: Submitted filled 0.0 remaining 456.0 lastFillPrice 0.0
+orderStatus - orderid: 85713 status: PreSubmitted filled 0.0 remaining 70.0 lastFillPrice 0.0
+orderStatus - orderid: 85714 status: PreSubmitted filled 0.0 remaining 70.0 lastFillPrice 0.0
+orderStatus - orderid: 85716 status: PreSubmitted filled 0.0 remaining 360.0 lastFillPrice 0.0
+orderStatus - orderid: 85717 status: PreSubmitted filled 0.0 remaining 360.0 lastFillPrice 0.0
+orderStatus - orderid: 85719 status: PreSubmitted filled 0.0 remaining 143.0 lastFillPrice 0.0
+orderStatus - orderid: 85720 status: PreSubmitted filled 0.0 remaining 143.0 lastFillPrice 0.0
+orderStatus - orderid: 85722 status: PreSubmitted filled 0.0 remaining 271.0 lastFillPrice 0.0
+orderStatus - orderid: 85723 status: PreSubmitted filled 0.0 remaining 271.0 lastFillPrice 0.0
+orderStatus - orderid: 85725 status: PreSubmitted filled 0.0 remaining 557.0 lastFillPrice 0.0
+orderStatus - orderid: 85726 status: PreSubmitted filled 0.0 remaining 557.0 lastFillPrice 0.0
+orderStatus - orderid: 85712 status: Submitted filled 0.0 remaining 70.0 lastFillPrice 0.0
+orderStatus - orderid: 85715 status: Submitted filled 0.0 remaining 360.0 lastFillPrice 0.0
+orderStatus - orderid: 85718 status: Submitted filled 0.0 remaining 143.0 lastFillPrice 0.0
+orderStatus - orderid: 85728 status: PreSubmitted filled 0.0 remaining 216.0 lastFillPrice 0.0
+orderStatus - orderid: 85729 status: PreSubmitted filled 0.0 remaining 216.0 lastFillPrice 0.0
+orderStatus - orderid: 85731 status: PreSubmitted filled 0.0 remaining 164.0 lastFillPrice 0.0
+orderStatus - orderid: 85732 status: PreSubmitted filled 0.0 remaining 164.0 lastFillPrice 0.0
+orderStatus - orderid: 85734 status: PreSubmitted filled 0.0 remaining 104.0 lastFillPrice 0.0
+orderStatus - orderid: 85735 status: PreSubmitted filled 0.0 remaining 104.0 lastFillPrice 0.0
+orderStatus - orderid: 85724 status: Submitted filled 0.0 remaining 557.0 lastFillPrice 0.0
+orderStatus - orderid: 85737 status: PreSubmitted filled 0.0 remaining 244.0 lastFillPrice 0.0
+orderStatus - orderid: 85738 status: PreSubmitted filled 0.0 remaining 244.0 lastFillPrice 0.0
+orderStatus - orderid: 85730 status: Submitted filled 0.0 remaining 164.0 lastFillPrice 0.0
+orderStatus - orderid: 85727 status: Submitted filled 0.0 remaining 216.0 lastFillPrice 0.0
+orderStatus - orderid: 85740 status: PreSubmitted filled 0.0 remaining 31.0 lastFillPrice 0.0
+orderStatus - orderid: 85741 status: PreSubmitted filled 0.0 remaining 31.0 lastFillPrice 0.0
+orderStatus - orderid: 85721 status: Submitted filled 0.0 remaining 271.0 lastFillPrice 0.0
+orderStatus - orderid: 85733 status: Submitted filled 0.0 remaining 104.0 lastFillPrice 0.0
+orderStatus - orderid: 85736 status: Submitted filled 0.0 remaining 244.0 lastFillPrice 0.0
+orderStatus - orderid: 85743 status: PreSubmitted filled 0.0 remaining 91.0 lastFillPrice 0.0
+orderStatus - orderid: 85744 status: PreSubmitted filled 0.0 remaining 91.0 lastFillPrice 0.0
+orderStatus - orderid: 85746 status: PreSubmitted filled 0.0 remaining 115.0 lastFillPrice 0.0
+orderStatus - orderid: 85747 status: PreSubmitted filled 0.0 remaining 115.0 lastFillPrice 0.0
+orderStatus - orderid: 85739 status: Submitted filled 0.0 remaining 31.0 lastFillPrice 0.0
+orderStatus - orderid: 85749 status: PreSubmitted filled 0.0 remaining 228.0 lastFillPrice 0.0
+orderStatus - orderid: 85750 status: PreSubmitted filled 0.0 remaining 228.0 lastFillPrice 0.0
+orderStatus - orderid: 85752 status: PreSubmitted filled 0.0 remaining 339.0 lastFillPrice 0.0
+orderStatus - orderid: 85753 status: PreSubmitted filled 0.0 remaining 339.0 lastFillPrice 0.0
+orderStatus - orderid: 85742 status: Submitted filled 0.0 remaining 91.0 lastFillPrice 0.0
+orderStatus - orderid: 85745 status: Submitted filled 0.0 remaining 115.0 lastFillPrice 0.0
+orderStatus - orderid: 85748 status: Submitted filled 0.0 remaining 228.0 lastFillPrice 0.0
+orderStatus - orderid: 85751 status: Submitted filled 0.0 remaining 339.0 lastFillPrice 0.0
+ticker: NVTA
+previous close: 25.63
+intended quantity: 93
+intended stop price: 30.37
+85754
+85754
+85754
+ticker: HBI
+previous close: 18.95
+intended quantity: 126
+intended stop price: 22.46
+85757
+85757
+85757
+ticker: LAZR
+previous close: 15.72
+intended quantity: 152
+intended stop price: 18.63
+85760
+85760
+85760
+ticker: INVA
+previous close: 15.94
+intended quantity: 150
+intended stop price: 18.89
+85763
+85763
+85763
+ticker: POSH
+previous close: 26.53
+intended quantity: 90
+intended stop price: 31.44
+85766
+85766
+85766
+ticker: IS
+previous close: 8.97
+intended quantity: 266
+intended stop price: 10.63
+85769
+85769
+85769
+ticker: SKLZ
+previous close: 10.5
+intended quantity: 227
+intended stop price: 12.44
+85772
+85772
+85772
+ticker: HRTX
+previous close: 10.52
+intended quantity: 227
+intended stop price: 12.47
+85775
+85775
+85775
+ticker: OTLY
+previous close: 15.63
+intended quantity: 153
+intended stop price: 18.52
+85778
+85778
+85778
+ticker: RUN
+previous close: 42.12
+intended quantity: 56
+intended stop price: 49.91
+85781
+85781
+85781
+ticker: BZUN
+previous close: 18.65
+intended quantity: 128
+intended stop price: 22.1
+85784
+85784
+85784
+ticker: NEGG
+previous close: 16.94
+intended quantity: 141
+intended stop price: 20.07
+85787
+85787
+85787
+ticker: SMFR
+previous close: 8.58
+intended quantity: 278
+intended stop price: 10.17
+85790
+85790
+85790
+ticker: DADA
+previous close: 19.5
+intended quantity: 122
+intended stop price: 23.11
+85793
+85793
+85793
+ticker: PRMW
+previous close: 16.93
+intended quantity: 141
+intended stop price: 20.06
+85796
+85796
+85796
+orderStatus - orderid: 85755 status: PreSubmitted filled 0.0 remaining 143.0 lastFillPrice 0.0
+orderStatus - orderid: 85756 status: PreSubmitted filled 0.0 remaining 143.0 lastFillPrice 0.0
+orderStatus - orderid: 85761 status: PreSubmitted filled 0.0 remaining 234.0 lastFillPrice 0.0
+orderStatus - orderid: 85762 status: PreSubmitted filled 0.0 remaining 234.0 lastFillPrice 0.0
+orderStatus - orderid: 85754 status: Submitted filled 0.0 remaining 143.0 lastFillPrice 0.0
+orderStatus - orderid: 85764 status: PreSubmitted filled 0.0 remaining 231.0 lastFillPrice 0.0
+orderStatus - orderid: 85765 status: PreSubmitted filled 0.0 remaining 231.0 lastFillPrice 0.0
+orderStatus - orderid: 85767 status: PreSubmitted filled 0.0 remaining 138.0 lastFillPrice 0.0
+orderStatus - orderid: 85768 status: PreSubmitted filled 0.0 remaining 138.0 lastFillPrice 0.0
+orderStatus - orderid: 85760 status: Submitted filled 0.0 remaining 234.0 lastFillPrice 0.0
+orderStatus - orderid: 85770 status: PreSubmitted filled 0.0 remaining 410.0 lastFillPrice 0.0
+orderStatus - orderid: 85771 status: PreSubmitted filled 0.0 remaining 410.0 lastFillPrice 0.0
+orderStatus - orderid: 85773 status: PreSubmitted filled 0.0 remaining 350.0 lastFillPrice 0.0
+orderStatus - orderid: 85774 status: PreSubmitted filled 0.0 remaining 350.0 lastFillPrice 0.0
+orderStatus - orderid: 85758 status: PreSubmitted filled 0.0 remaining 194.0 lastFillPrice 0.0
+orderStatus - orderid: 85759 status: PreSubmitted filled 0.0 remaining 194.0 lastFillPrice 0.0
+orderStatus - orderid: 85763 status: Submitted filled 0.0 remaining 231.0 lastFillPrice 0.0
+orderStatus - orderid: 85766 status: Submitted filled 0.0 remaining 138.0 lastFillPrice 0.0
+orderStatus - orderid: 85776 status: PreSubmitted filled 0.0 remaining 350.0 lastFillPrice 0.0
+orderStatus - orderid: 85777 status: PreSubmitted filled 0.0 remaining 350.0 lastFillPrice 0.0
+orderStatus - orderid: 85779 status: PreSubmitted filled 0.0 remaining 235.0 lastFillPrice 0.0
+orderStatus - orderid: 85780 status: PreSubmitted filled 0.0 remaining 235.0 lastFillPrice 0.0
+orderStatus - orderid: 85769 status: Submitted filled 0.0 remaining 410.0 lastFillPrice 0.0
+orderStatus - orderid: 85772 status: Submitted filled 0.0 remaining 350.0 lastFillPrice 0.0
+orderStatus - orderid: 85757 status: Submitted filled 0.0 remaining 194.0 lastFillPrice 0.0
+orderStatus - orderid: 85775 status: Submitted filled 0.0 remaining 350.0 lastFillPrice 0.0
+orderStatus - orderid: 85778 status: Submitted filled 0.0 remaining 235.0 lastFillPrice 0.0
+orderStatus - orderid: 85785 status: PreSubmitted filled 0.0 remaining 197.0 lastFillPrice 0.0
+orderStatus - orderid: 85786 status: PreSubmitted filled 0.0 remaining 197.0 lastFillPrice 0.0
+orderStatus - orderid: 85782 status: PreSubmitted filled 0.0 remaining 87.0 lastFillPrice 0.0
+orderStatus - orderid: 85783 status: PreSubmitted filled 0.0 remaining 87.0 lastFillPrice 0.0
+orderStatus - orderid: 85788 status: PreSubmitted filled 0.0 remaining 217.0 lastFillPrice 0.0
+orderStatus - orderid: 85789 status: PreSubmitted filled 0.0 remaining 217.0 lastFillPrice 0.0
+orderStatus - orderid: 85791 status: PreSubmitted filled 0.0 remaining 429.0 lastFillPrice 0.0
+orderStatus - orderid: 85792 status: PreSubmitted filled 0.0 remaining 429.0 lastFillPrice 0.0
+orderStatus - orderid: 85794 status: PreSubmitted filled 0.0 remaining 188.0 lastFillPrice 0.0
+orderStatus - orderid: 85795 status: PreSubmitted filled 0.0 remaining 188.0 lastFillPrice 0.0
+orderStatus - orderid: 85784 status: Submitted filled 0.0 remaining 197.0 lastFillPrice 0.0
+orderStatus - orderid: 85781 status: Submitted filled 0.0 remaining 87.0 lastFillPrice 0.0
+orderStatus - orderid: 85797 status: PreSubmitted filled 0.0 remaining 217.0 lastFillPrice 0.0
+orderStatus - orderid: 85798 status: PreSubmitted filled 0.0 remaining 217.0 lastFillPrice 0.0
+orderStatus - orderid: 85790 status: Submitted filled 0.0 remaining 429.0 lastFillPrice 0.0
+orderStatus - orderid: 85787 status: Submitted filled 0.0 remaining 217.0 lastFillPrice 0.0
+orderStatus - orderid: 85793 status: Submitted filled 0.0 remaining 188.0 lastFillPrice 0.0
+orderStatus - orderid: 85796 status: Submitted filled 0.0 remaining 217.0 lastFillPrice 0.0
+ticker: RRC
+previous close: 12.72
+intended quantity: 188
+intended stop price: 15.07
+85799
+85799
+85799
+ticker: VIPS
+previous close: 13.22
+intended quantity: 181
+intended stop price: 15.67
+85802
+85802
+85802
+ticker: YETI
+previous close: 98.64
+intended quantity: 24
+intended stop price: 116.89
+85805
+85805
+85805
+ticker: YY
+previous close: 46.82
+intended quantity: 51
+intended stop price: 55.48
+85808
+85808
+85808
+ticker: SKT
+previous close: 16.71
+intended quantity: 143
+intended stop price: 19.8
+85811
+85811
+85811
+ticker: NCLH
+previous close: 23.63
+intended quantity: 101
+intended stop price: 28.0
+85814
+85814
+85814
+ticker: KSS
+previous close: 57.24
+intended quantity: 41
+intended stop price: 67.83
+85817
+85817
+85817
+ticker: LC
+previous close: 28.7
+intended quantity: 83
+intended stop price: 34.01
+85820
+85820
+85820
+ticker: GPRO
+previous close: 10.0
+intended quantity: 239
+intended stop price: 11.85
+85823
+85823
+85823
+ticker: FRO
+previous close: 7.24
+intended quantity: 330
+intended stop price: 8.58
+85826
+85826
+85826
+ticker: AMKR
+previous close: 24.87
+intended quantity: 96
+intended stop price: 29.47
+85829
+85829
+85829
+ticker: SPR
+previous close: 38.49
+intended quantity: 62
+intended stop price: 45.61
+85832
+85832
+85832
+ticker: CWH
+previous close: 36.6
+intended quantity: 65
+intended stop price: 43.37
+85835
+85835
+85835
+ticker: SBLK
+previous close: 20.31
+intended quantity: 117
+intended stop price: 24.07
+85838
+85838
+85838
+ticker: BMBL
+previous close: 48.29
+intended quantity: 49
+intended stop price: 57.22
+85841
+85841
+85841
+Error. Id:  85823  Code:  200  Msg:  The contract description specified for GPRO is ambiguous.
+Error. Id:  85824  Code:  200  Msg:  The contract description specified for GPRO is ambiguous.
+Error. Id:  85825  Code:  200  Msg:  The contract description specified for GPRO is ambiguous.
+orderStatus - orderid: 85800 status: PreSubmitted filled 0.0 remaining 289.0 lastFillPrice 0.0
+orderStatus - orderid: 85801 status: PreSubmitted filled 0.0 remaining 289.0 lastFillPrice 0.0
+orderStatus - orderid: 85803 status: PreSubmitted filled 0.0 remaining 278.0 lastFillPrice 0.0
+orderStatus - orderid: 85804 status: PreSubmitted filled 0.0 remaining 278.0 lastFillPrice 0.0
+orderStatus - orderid: 85799 status: Submitted filled 0.0 remaining 289.0 lastFillPrice 0.0
+orderStatus - orderid: 85806 status: PreSubmitted filled 0.0 remaining 37.0 lastFillPrice 0.0
+orderStatus - orderid: 85807 status: PreSubmitted filled 0.0 remaining 37.0 lastFillPrice 0.0
+orderStatus - orderid: 85809 status: PreSubmitted filled 0.0 remaining 78.0 lastFillPrice 0.0
+orderStatus - orderid: 85810 status: PreSubmitted filled 0.0 remaining 78.0 lastFillPrice 0.0
+orderStatus - orderid: 85802 status: Submitted filled 0.0 remaining 278.0 lastFillPrice 0.0
+orderStatus - orderid: 85815 status: PreSubmitted filled 0.0 remaining 155.0 lastFillPrice 0.0
+orderStatus - orderid: 85816 status: PreSubmitted filled 0.0 remaining 155.0 lastFillPrice 0.0
+orderStatus - orderid: 85821 status: PreSubmitted filled 0.0 remaining 128.0 lastFillPrice 0.0
+orderStatus - orderid: 85822 status: PreSubmitted filled 0.0 remaining 128.0 lastFillPrice 0.0
+orderStatus - orderid: 85812 status: PreSubmitted filled 0.0 remaining 220.0 lastFillPrice 0.0
+orderStatus - orderid: 85813 status: PreSubmitted filled 0.0 remaining 220.0 lastFillPrice 0.0
+orderStatus - orderid: 85818 status: PreSubmitted filled 0.0 remaining 64.0 lastFillPrice 0.0
+orderStatus - orderid: 85819 status: PreSubmitted filled 0.0 remaining 64.0 lastFillPrice 0.0
+orderStatus - orderid: 85805 status: Submitted filled 0.0 remaining 37.0 lastFillPrice 0.0
+orderStatus - orderid: 85808 status: Submitted filled 0.0 remaining 78.0 lastFillPrice 0.0
+orderStatus - orderid: 85814 status: Submitted filled 0.0 remaining 155.0 lastFillPrice 0.0
+orderStatus - orderid: 85820 status: Submitted filled 0.0 remaining 128.0 lastFillPrice 0.0
+orderStatus - orderid: 85839 status: PreSubmitted filled 0.0 remaining 181.0 lastFillPrice 0.0
+orderStatus - orderid: 85840 status: PreSubmitted filled 0.0 remaining 181.0 lastFillPrice 0.0
+orderStatus - orderid: 85817 status: Submitted filled 0.0 remaining 64.0 lastFillPrice 0.0
+orderStatus - orderid: 85811 status: Submitted filled 0.0 remaining 220.0 lastFillPrice 0.0
+orderStatus - orderid: 85838 status: Submitted filled 0.0 remaining 181.0 lastFillPrice 0.0
+orderStatus - orderid: 85830 status: PreSubmitted filled 0.0 remaining 148.0 lastFillPrice 0.0
+orderStatus - orderid: 85831 status: PreSubmitted filled 0.0 remaining 148.0 lastFillPrice 0.0
+orderStatus - orderid: 85836 status: PreSubmitted filled 0.0 remaining 100.0 lastFillPrice 0.0
+orderStatus - orderid: 85837 status: PreSubmitted filled 0.0 remaining 100.0 lastFillPrice 0.0
+orderStatus - orderid: 85827 status: PreSubmitted filled 0.0 remaining 508.0 lastFillPrice 0.0
+orderStatus - orderid: 85828 status: PreSubmitted filled 0.0 remaining 508.0 lastFillPrice 0.0
+orderStatus - orderid: 85833 status: PreSubmitted filled 0.0 remaining 95.0 lastFillPrice 0.0
+orderStatus - orderid: 85834 status: PreSubmitted filled 0.0 remaining 95.0 lastFillPrice 0.0
+orderStatus - orderid: 85842 status: PreSubmitted filled 0.0 remaining 76.0 lastFillPrice 0.0
+orderStatus - orderid: 85843 status: PreSubmitted filled 0.0 remaining 76.0 lastFillPrice 0.0
+orderStatus - orderid: 85835 status: Submitted filled 0.0 remaining 100.0 lastFillPrice 0.0
+orderStatus - orderid: 85829 status: Submitted filled 0.0 remaining 148.0 lastFillPrice 0.0
+orderStatus - orderid: 85826 status: Submitted filled 0.0 remaining 508.0 lastFillPrice 0.0
+orderStatus - orderid: 85832 status: Submitted filled 0.0 remaining 95.0 lastFillPrice 0.0
+orderStatus - orderid: 85841 status: Submitted filled 0.0 remaining 76.0 lastFillPrice 0.0
+ticker: BARK
+previous close: 6.91
+intended quantity: 346
+intended stop price: 8.19
+85844
+85844
+85844
+ticker: LPRO
+previous close: 32.46
+intended quantity: 73
+intended stop price: 38.47
+85847
+85847
+85847
+ticker: GTES
+previous close: 16.08
+intended quantity: 148
+intended stop price: 19.05
+85850
+85850
+85850
+ticker: DDD
+previous close: 27.89
+intended quantity: 85
+intended stop price: 33.05
+85853
+85853
+85853
+ticker: VLDR
+previous close: 6.17
+intended quantity: 387
+intended stop price: 7.31
+85856
+85856
+85856
+ticker: IBRX
+previous close: 10.0
+intended quantity: 239
+intended stop price: 11.85
+85859
+85859
+85859
+ticker: CNK
+previous close: 14.48
+intended quantity: 165
+intended stop price: 17.16
+85862
+85862
+85862
+ticker: FIGS
+previous close: 36.75
+intended quantity: 65
+intended stop price: 43.55
+85865
+85865
+85865
+ticker: SKX
+previous close: 50.39
+intended quantity: 47
+intended stop price: 59.71
+85868
+85868
+85868
+ticker: CRBU
+previous close: 26.09
+intended quantity: 91
+intended stop price: 30.92
+85871
+85871
+85871
+ticker: TAL
+previous close: 5.13
+intended quantity: 466
+intended stop price: 6.08
+85874
+85874
+85874
+ticker: GRWG
+previous close: 29.49
+intended quantity: 81
+intended stop price: 34.95
+85877
+85877
+85877
+ticker: PAA
+previous close: 9.17
+intended quantity: 261
+intended stop price: 10.87
+85880
+85880
+85880
+ticker: OPCH
+previous close: 23.7
+intended quantity: 101
+intended stop price: 28.08
+85883
+85883
+85883
+ticker: COMP
+previous close: 15.76
+intended quantity: 151
+intended stop price: 18.68
+85886
+85886
+85886
+orderStatus - orderid: 85845 status: PreSubmitted filled 0.0 remaining 532.0 lastFillPrice 0.0
+orderStatus - orderid: 85846 status: PreSubmitted filled 0.0 remaining 532.0 lastFillPrice 0.0
+Error. Id:  85871  Code:  200  Msg:  The contract description specified for CRBU is ambiguous.
+Error. Id:  85872  Code:  200  Msg:  The contract description specified for CRBU is ambiguous.
+Error. Id:  85873  Code:  200  Msg:  The contract description specified for CRBU is ambiguous.
+orderStatus - orderid: 85844 status: Submitted filled 0.0 remaining 532.0 lastFillPrice 0.0
+orderStatus - orderid: 85848 status: PreSubmitted filled 0.0 remaining 113.0 lastFillPrice 0.0
+orderStatus - orderid: 85849 status: PreSubmitted filled 0.0 remaining 113.0 lastFillPrice 0.0
+orderStatus - orderid: 85851 status: PreSubmitted filled 0.0 remaining 229.0 lastFillPrice 0.0
+orderStatus - orderid: 85852 status: PreSubmitted filled 0.0 remaining 229.0 lastFillPrice 0.0
+orderStatus - orderid: 85857 status: PreSubmitted filled 0.0 remaining 596.0 lastFillPrice 0.0
+orderStatus - orderid: 85858 status: PreSubmitted filled 0.0 remaining 596.0 lastFillPrice 0.0
+orderStatus - orderid: 85860 status: PreSubmitted filled 0.0 remaining 368.0 lastFillPrice 0.0
+orderStatus - orderid: 85861 status: PreSubmitted filled 0.0 remaining 368.0 lastFillPrice 0.0
+orderStatus - orderid: 85863 status: PreSubmitted filled 0.0 remaining 254.0 lastFillPrice 0.0
+orderStatus - orderid: 85864 status: PreSubmitted filled 0.0 remaining 254.0 lastFillPrice 0.0
+orderStatus - orderid: 85847 status: Submitted filled 0.0 remaining 113.0 lastFillPrice 0.0
+orderStatus - orderid: 85854 status: PreSubmitted filled 0.0 remaining 132.0 lastFillPrice 0.0
+orderStatus - orderid: 85855 status: PreSubmitted filled 0.0 remaining 132.0 lastFillPrice 0.0
+orderStatus - orderid: 85856 status: Submitted filled 0.0 remaining 596.0 lastFillPrice 0.0
+orderStatus - orderid: 85850 status: Submitted filled 0.0 remaining 229.0 lastFillPrice 0.0
+orderStatus - orderid: 85869 status: PreSubmitted filled 0.0 remaining 73.0 lastFillPrice 0.0
+orderStatus - orderid: 85870 status: PreSubmitted filled 0.0 remaining 73.0 lastFillPrice 0.0
+orderStatus - orderid: 85862 status: Submitted filled 0.0 remaining 254.0 lastFillPrice 0.0
+orderStatus - orderid: 85859 status: Submitted filled 0.0 remaining 368.0 lastFillPrice 0.0
+orderStatus - orderid: 85853 status: Submitted filled 0.0 remaining 132.0 lastFillPrice 0.0
+orderStatus - orderid: 85866 status: PreSubmitted filled 0.0 remaining 100.0 lastFillPrice 0.0
+orderStatus - orderid: 85867 status: PreSubmitted filled 0.0 remaining 100.0 lastFillPrice 0.0
+orderStatus - orderid: 85878 status: PreSubmitted filled 0.0 remaining 124.0 lastFillPrice 0.0
+orderStatus - orderid: 85879 status: PreSubmitted filled 0.0 remaining 124.0 lastFillPrice 0.0
+orderStatus - orderid: 85868 status: Submitted filled 0.0 remaining 73.0 lastFillPrice 0.0
+orderStatus - orderid: 85875 status: PreSubmitted filled 0.0 remaining 717.0 lastFillPrice 0.0
+orderStatus - orderid: 85876 status: PreSubmitted filled 0.0 remaining 717.0 lastFillPrice 0.0
+orderStatus - orderid: 85884 status: PreSubmitted filled 0.0 remaining 155.0 lastFillPrice 0.0
+orderStatus - orderid: 85885 status: PreSubmitted filled 0.0 remaining 155.0 lastFillPrice 0.0
+Error. Id:  85865  Code:  404  Msg:  Order held while securities are located.
+orderStatus - orderid: 85865 status: PreSubmitted filled 0.0 remaining 100.0 lastFillPrice 0.0
+orderStatus - orderid: 85881 status: PreSubmitted filled 0.0 remaining 401.0 lastFillPrice 0.0
+orderStatus - orderid: 85882 status: PreSubmitted filled 0.0 remaining 401.0 lastFillPrice 0.0
+orderStatus - orderid: 85877 status: Submitted filled 0.0 remaining 124.0 lastFillPrice 0.0
+orderStatus - orderid: 85887 status: PreSubmitted filled 0.0 remaining 233.0 lastFillPrice 0.0
+orderStatus - orderid: 85888 status: PreSubmitted filled 0.0 remaining 233.0 lastFillPrice 0.0
+orderStatus - orderid: 85874 status: Submitted filled 0.0 remaining 717.0 lastFillPrice 0.0
+orderStatus - orderid: 85883 status: Submitted filled 0.0 remaining 155.0 lastFillPrice 0.0
+orderStatus - orderid: 85880 status: Submitted filled 0.0 remaining 401.0 lastFillPrice 0.0
+orderStatus - orderid: 85886 status: Submitted filled 0.0 remaining 233.0 lastFillPrice 0.0
+ticker: DK
+previous close: 14.34
+intended quantity: 166
+intended stop price: 16.99
+85889
+85889
+85889
+ticker: SYNH
+previous close: 88.14
+intended quantity: 27
+intended stop price: 104.45
+85892
+85892
+85892
+ticker: AVIR
+previous close: 29.66
+intended quantity: 80
+intended stop price: 35.15
+85895
+85895
+85895
+ticker: STOR
+previous close: 35.4
+intended quantity: 67
+intended stop price: 41.95
+85898
+85898
+85898
+ticker: DBI
+previous close: 15.13
+intended quantity: 158
+intended stop price: 17.93
+85901
+85901
+85901
+ticker: MTTR
+previous close: 13.93
+intended quantity: 171
+intended stop price: 16.51
+85904
+85904
+85904
+ticker: AI
+previous close: 45.51
+intended quantity: 52
+intended stop price: 53.93
+85907
+85907
+85907
+ticker: ROOT
+previous close: 5.65
+intended quantity: 423
+intended stop price: 6.7
+85910
+85910
+85910
+ticker: CLOV
+previous close: 7.75
+intended quantity: 308
+intended stop price: 9.18
+85913
+85913
+85913
+ticker: JMIA
+previous close: 17.78
+intended quantity: 134
+intended stop price: 21.07
+85916
+85916
+85916
+ticker: MGNI
+previous close: 24.8
+intended quantity: 96
+intended stop price: 29.39
+85919
+85919
+85919
+ticker: EXPI
+previous close: 41.67
+intended quantity: 57
+intended stop price: 49.38
+85922
+85922
+85922
+ticker: WWE
+previous close: 48.51
+intended quantity: 49
+intended stop price: 57.48
+85925
+85925
+85925
+ticker: TROX
+previous close: 18.44
+intended quantity: 129
+intended stop price: 21.85
+85928
+85928
+85928
+ticker: TRQ
+previous close: 13.34
+intended quantity: 179
+intended stop price: 15.81
+85931
+85931
+85931
+orderStatus - orderid: 85890 status: PreSubmitted filled 0.0 remaining 256.0 lastFillPrice 0.0
+orderStatus - orderid: 85891 status: PreSubmitted filled 0.0 remaining 256.0 lastFillPrice 0.0
+orderStatus - orderid: 85893 status: PreSubmitted filled 0.0 remaining 41.0 lastFillPrice 0.0
+orderStatus - orderid: 85894 status: PreSubmitted filled 0.0 remaining 41.0 lastFillPrice 0.0
+orderStatus - orderid: 85889 status: Submitted filled 0.0 remaining 256.0 lastFillPrice 0.0
+orderStatus - orderid: 85896 status: PreSubmitted filled 0.0 remaining 124.0 lastFillPrice 0.0
+orderStatus - orderid: 85897 status: PreSubmitted filled 0.0 remaining 124.0 lastFillPrice 0.0
+orderStatus - orderid: 85899 status: PreSubmitted filled 0.0 remaining 104.0 lastFillPrice 0.0
+orderStatus - orderid: 85900 status: PreSubmitted filled 0.0 remaining 104.0 lastFillPrice 0.0
+orderStatus - orderid: 85892 status: Submitted filled 0.0 remaining 41.0 lastFillPrice 0.0
+orderStatus - orderid: 85902 status: PreSubmitted filled 0.0 remaining 243.0 lastFillPrice 0.0
+orderStatus - orderid: 85903 status: PreSubmitted filled 0.0 remaining 243.0 lastFillPrice 0.0
+orderStatus - orderid: 85905 status: PreSubmitted filled 0.0 remaining 264.0 lastFillPrice 0.0
+orderStatus - orderid: 85906 status: PreSubmitted filled 0.0 remaining 264.0 lastFillPrice 0.0
+orderStatus - orderid: 85911 status: PreSubmitted filled 0.0 remaining 651.0 lastFillPrice 0.0
+orderStatus - orderid: 85912 status: PreSubmitted filled 0.0 remaining 651.0 lastFillPrice 0.0
+orderStatus - orderid: 85908 status: PreSubmitted filled 0.0 remaining 80.0 lastFillPrice 0.0
+orderStatus - orderid: 85909 status: PreSubmitted filled 0.0 remaining 80.0 lastFillPrice 0.0
+orderStatus - orderid: 85898 status: Submitted filled 0.0 remaining 104.0 lastFillPrice 0.0
+orderStatus - orderid: 85895 status: Submitted filled 0.0 remaining 124.0 lastFillPrice 0.0
+orderStatus - orderid: 85901 status: Submitted filled 0.0 remaining 243.0 lastFillPrice 0.0
+orderStatus - orderid: 85904 status: Submitted filled 0.0 remaining 264.0 lastFillPrice 0.0
+orderStatus - orderid: 85910 status: Submitted filled 0.0 remaining 651.0 lastFillPrice 0.0
+orderStatus - orderid: 85907 status: Submitted filled 0.0 remaining 80.0 lastFillPrice 0.0
+orderStatus - orderid: 85914 status: PreSubmitted filled 0.0 remaining 475.0 lastFillPrice 0.0
+orderStatus - orderid: 85915 status: PreSubmitted filled 0.0 remaining 475.0 lastFillPrice 0.0
+orderStatus - orderid: 85926 status: PreSubmitted filled 0.0 remaining 75.0 lastFillPrice 0.0
+orderStatus - orderid: 85927 status: PreSubmitted filled 0.0 remaining 75.0 lastFillPrice 0.0
+orderStatus - orderid: 85917 status: PreSubmitted filled 0.0 remaining 207.0 lastFillPrice 0.0
+orderStatus - orderid: 85918 status: PreSubmitted filled 0.0 remaining 207.0 lastFillPrice 0.0
+orderStatus - orderid: 85920 status: PreSubmitted filled 0.0 remaining 148.0 lastFillPrice 0.0
+orderStatus - orderid: 85921 status: PreSubmitted filled 0.0 remaining 148.0 lastFillPrice 0.0
+orderStatus - orderid: 85923 status: PreSubmitted filled 0.0 remaining 88.0 lastFillPrice 0.0
+orderStatus - orderid: 85924 status: PreSubmitted filled 0.0 remaining 88.0 lastFillPrice 0.0
+orderStatus - orderid: 85929 status: PreSubmitted filled 0.0 remaining 199.0 lastFillPrice 0.0
+orderStatus - orderid: 85930 status: PreSubmitted filled 0.0 remaining 199.0 lastFillPrice 0.0
+orderStatus - orderid: 85925 status: Submitted filled 0.0 remaining 75.0 lastFillPrice 0.0
+orderStatus - orderid: 85913 status: Submitted filled 0.0 remaining 475.0 lastFillPrice 0.0
+orderStatus - orderid: 85932 status: PreSubmitted filled 0.0 remaining 276.0 lastFillPrice 0.0
+orderStatus - orderid: 85933 status: PreSubmitted filled 0.0 remaining 276.0 lastFillPrice 0.0
+orderStatus - orderid: 85916 status: Submitted filled 0.0 remaining 207.0 lastFillPrice 0.0
+orderStatus - orderid: 85922 status: Submitted filled 0.0 remaining 88.0 lastFillPrice 0.0
+orderStatus - orderid: 85919 status: Submitted filled 0.0 remaining 148.0 lastFillPrice 0.0
+orderStatus - orderid: 85928 status: Submitted filled 0.0 remaining 199.0 lastFillPrice 0.0
+orderStatus - orderid: 85931 status: Submitted filled 0.0 remaining 276.0 lastFillPrice 0.0
+ticker: EQX
+previous close: 6.03
+intended quantity: 396
+intended stop price: 7.15
+85934
+85934
+85934
+ticker: HYZN
+previous close: 8.31
+intended quantity: 288
+intended stop price: 9.85
+85937
+85937
+85937
+ticker: ZH
+previous close: 10.25
+intended quantity: 233
+intended stop price: 12.15
+85940
+85940
+85940
+ticker: TWOU
+previous close: 35.32
+intended quantity: 67
+intended stop price: 41.85
+85943
+85943
+85943
+ticker: UCO
+previous close: 59.09
+intended quantity: 40
+intended stop price: 70.02
+85946
+85946
+85946
+ticker: BBBY
+previous close: 26.58
+intended quantity: 90
+intended stop price: 31.5
+85949
+85949
+85949
+ticker: WOOF
+previous close: 21.54
+intended quantity: 111
+intended stop price: 25.52
+85952
+85952
+85952
+ticker: PSTG
+previous close: 19.61
+intended quantity: 122
+intended stop price: 23.24
+85955
+85955
+85955
+ticker: BIGC
+previous close: 54.66
+intended quantity: 43
+intended stop price: 64.77
+85958
+85958
+85958
+ticker: DQ
+previous close: 47.08
+intended quantity: 50
+intended stop price: 55.79
+85961
+85961
+85961
+ticker: SM
+previous close: 15.26
+intended quantity: 156
+intended stop price: 18.08
+85964
+85964
+85964
+ticker: IGT
+previous close: 17.42
+intended quantity: 137
+intended stop price: 20.64
+85967
+85967
+85967
+ticker: FVRR
+previous close: 164.33
+intended quantity: 14
+intended stop price: 194.73
+85970
+85970
+85970
+ticker: NKLA
+previous close: 9.44
+intended quantity: 253
+intended stop price: 11.19
+85973
+85973
+85973
+ticker: ANF
+previous close: 38.02
+intended quantity: 62
+intended stop price: 45.05
+85976
+85976
+85976
+orderStatus - orderid: 85935 status: PreSubmitted filled 0.0 remaining 610.0 lastFillPrice 0.0
+orderStatus - orderid: 85936 status: PreSubmitted filled 0.0 remaining 610.0 lastFillPrice 0.0
+orderStatus - orderid: 85934 status: Submitted filled 0.0 remaining 610.0 lastFillPrice 0.0
+orderStatus - orderid: 85941 status: PreSubmitted filled 0.0 remaining 359.0 lastFillPrice 0.0
+orderStatus - orderid: 85942 status: PreSubmitted filled 0.0 remaining 359.0 lastFillPrice 0.0
+orderStatus - orderid: 85938 status: PreSubmitted filled 0.0 remaining 443.0 lastFillPrice 0.0
+orderStatus - orderid: 85939 status: PreSubmitted filled 0.0 remaining 443.0 lastFillPrice 0.0
+orderStatus - orderid: 85944 status: PreSubmitted filled 0.0 remaining 104.0 lastFillPrice 0.0
+orderStatus - orderid: 85945 status: PreSubmitted filled 0.0 remaining 104.0 lastFillPrice 0.0
+orderStatus - orderid: 85947 status: PreSubmitted filled 0.0 remaining 62.0 lastFillPrice 0.0
+orderStatus - orderid: 85948 status: PreSubmitted filled 0.0 remaining 62.0 lastFillPrice 0.0
+orderStatus - orderid: 85953 status: PreSubmitted filled 0.0 remaining 170.0 lastFillPrice 0.0
+orderStatus - orderid: 85954 status: PreSubmitted filled 0.0 remaining 170.0 lastFillPrice 0.0
+orderStatus - orderid: 85940 status: Submitted filled 0.0 remaining 359.0 lastFillPrice 0.0
+orderStatus - orderid: 85950 status: PreSubmitted filled 0.0 remaining 138.0 lastFillPrice 0.0
+orderStatus - orderid: 85951 status: PreSubmitted filled 0.0 remaining 138.0 lastFillPrice 0.0
+orderStatus - orderid: 85937 status: Submitted filled 0.0 remaining 443.0 lastFillPrice 0.0
+orderStatus - orderid: 85943 status: Submitted filled 0.0 remaining 104.0 lastFillPrice 0.0
+orderStatus - orderid: 85946 status: Submitted filled 0.0 remaining 62.0 lastFillPrice 0.0
+orderStatus - orderid: 85952 status: Submitted filled 0.0 remaining 170.0 lastFillPrice 0.0
+orderStatus - orderid: 85949 status: Submitted filled 0.0 remaining 138.0 lastFillPrice 0.0
+orderStatus - orderid: 85962 status: PreSubmitted filled 0.0 remaining 78.0 lastFillPrice 0.0
+orderStatus - orderid: 85963 status: PreSubmitted filled 0.0 remaining 78.0 lastFillPrice 0.0
+orderStatus - orderid: 85956 status: PreSubmitted filled 0.0 remaining 187.0 lastFillPrice 0.0
+orderStatus - orderid: 85957 status: PreSubmitted filled 0.0 remaining 187.0 lastFillPrice 0.0
+orderStatus - orderid: 85959 status: PreSubmitted filled 0.0 remaining 67.0 lastFillPrice 0.0
+orderStatus - orderid: 85960 status: PreSubmitted filled 0.0 remaining 67.0 lastFillPrice 0.0
+orderStatus - orderid: 85965 status: PreSubmitted filled 0.0 remaining 241.0 lastFillPrice 0.0
+orderStatus - orderid: 85966 status: PreSubmitted filled 0.0 remaining 241.0 lastFillPrice 0.0
+orderStatus - orderid: 85968 status: PreSubmitted filled 0.0 remaining 211.0 lastFillPrice 0.0
+orderStatus - orderid: 85969 status: PreSubmitted filled 0.0 remaining 211.0 lastFillPrice 0.0
+orderStatus - orderid: 85971 status: PreSubmitted filled 0.0 remaining 22.0 lastFillPrice 0.0
+orderStatus - orderid: 85972 status: PreSubmitted filled 0.0 remaining 22.0 lastFillPrice 0.0
+orderStatus - orderid: 85961 status: Submitted filled 0.0 remaining 78.0 lastFillPrice 0.0
+orderStatus - orderid: 85955 status: Submitted filled 0.0 remaining 187.0 lastFillPrice 0.0
+orderStatus - orderid: 85974 status: PreSubmitted filled 0.0 remaining 390.0 lastFillPrice 0.0
+orderStatus - orderid: 85975 status: PreSubmitted filled 0.0 remaining 390.0 lastFillPrice 0.0
+orderStatus - orderid: 85964 status: Submitted filled 0.0 remaining 241.0 lastFillPrice 0.0
+orderStatus - orderid: 85958 status: Submitted filled 0.0 remaining 67.0 lastFillPrice 0.0
+orderStatus - orderid: 85977 status: PreSubmitted filled 0.0 remaining 96.0 lastFillPrice 0.0
+orderStatus - orderid: 85978 status: PreSubmitted filled 0.0 remaining 96.0 lastFillPrice 0.0
+orderStatus - orderid: 85970 status: Submitted filled 0.0 remaining 22.0 lastFillPrice 0.0
+orderStatus - orderid: 85967 status: Submitted filled 0.0 remaining 211.0 lastFillPrice 0.0
+orderStatus - orderid: 85973 status: Submitted filled 0.0 remaining 390.0 lastFillPrice 0.0
+orderStatus - orderid: 85976 status: Submitted filled 0.0 remaining 96.0 lastFillPrice 0.0
+ticker: MSTR
+previous close: 716.56
+intended quantity: 3
+intended stop price: 849.12
+85979
+85979
+85979
+ticker: JAZZ
+previous close: 133.5
+intended quantity: 17
+intended stop price: 158.2
+85982
+85982
+85982
+ticker: TSP
+previous close: 34.0
+intended quantity: 70
+intended stop price: 40.29
+85985
+85985
+85985
+ticker: AU
+previous close: 15.89
+intended quantity: 150
+intended stop price: 18.83
+85988
+85988
+85988
+ticker: OII
+previous close: 11.06
+intended quantity: 216
+intended stop price: 13.11
+85991
+85991
+85991
+ticker: HP
+previous close: 24.13
+intended quantity: 99
+intended stop price: 28.59
+85994
+85994
+85994
+ticker: VIR
+previous close: 46.47
+intended quantity: 51
+intended stop price: 55.07
+85997
+85997
+85997
+ticker: PSFE
+previous close: 8.24
+intended quantity: 290
+intended stop price: 9.76
+86000
+86000
+86000
+ticker: FGEN
+previous close: 12.11
+intended quantity: 197
+intended stop price: 14.35
+86003
+86003
+86003
+ticker: AR
+previous close: 11.62
+intended quantity: 206
+intended stop price: 13.77
+86006
+86006
+86006
+ticker: LTHM
+previous close: 24.21
+intended quantity: 98
+intended stop price: 28.69
+86009
+86009
+86009
+ticker: AGI
+previous close: 7.28
+intended quantity: 328
+intended stop price: 8.63
+86012
+86012
+86012
+ticker: STAG
+previous close: 41.96
+intended quantity: 57
+intended stop price: 49.72
+86015
+86015
+86015
+ticker: CLB
+previous close: 24.5
+intended quantity: 97
+intended stop price: 29.03
+86018
+86018
+86018
+ticker: HYFM
+previous close: 42.97
+intended quantity: 55
+intended stop price: 50.92
+86021
+86021
+86021
+orderStatus - orderid: 85980 status: PreSubmitted filled 0.0 remaining 5.0 lastFillPrice 0.0
+orderStatus - orderid: 85981 status: PreSubmitted filled 0.0 remaining 5.0 lastFillPrice 0.0
+orderStatus - orderid: 85979 status: Submitted filled 0.0 remaining 5.0 lastFillPrice 0.0
+orderStatus - orderid: 85986 status: PreSubmitted filled 0.0 remaining 108.0 lastFillPrice 0.0
+orderStatus - orderid: 85987 status: PreSubmitted filled 0.0 remaining 108.0 lastFillPrice 0.0
+orderStatus - orderid: 85983 status: PreSubmitted filled 0.0 remaining 27.0 lastFillPrice 0.0
+orderStatus - orderid: 85984 status: PreSubmitted filled 0.0 remaining 27.0 lastFillPrice 0.0
+orderStatus - orderid: 85992 status: PreSubmitted filled 0.0 remaining 332.0 lastFillPrice 0.0
+orderStatus - orderid: 85993 status: PreSubmitted filled 0.0 remaining 332.0 lastFillPrice 0.0
+orderStatus - orderid: 85989 status: PreSubmitted filled 0.0 remaining 231.0 lastFillPrice 0.0
+orderStatus - orderid: 85990 status: PreSubmitted filled 0.0 remaining 231.0 lastFillPrice 0.0
+orderStatus - orderid: 85985 status: Submitted filled 0.0 remaining 108.0 lastFillPrice 0.0
+orderStatus - orderid: 85982 status: Submitted filled 0.0 remaining 27.0 lastFillPrice 0.0
+orderStatus - orderid: 85998 status: PreSubmitted filled 0.0 remaining 79.0 lastFillPrice 0.0
+orderStatus - orderid: 85999 status: PreSubmitted filled 0.0 remaining 79.0 lastFillPrice 0.0
+orderStatus - orderid: 85991 status: Submitted filled 0.0 remaining 332.0 lastFillPrice 0.0
+orderStatus - orderid: 85988 status: Submitted filled 0.0 remaining 231.0 lastFillPrice 0.0
+orderStatus - orderid: 85995 status: PreSubmitted filled 0.0 remaining 152.0 lastFillPrice 0.0
+orderStatus - orderid: 85996 status: PreSubmitted filled 0.0 remaining 152.0 lastFillPrice 0.0
+orderStatus - orderid: 85997 status: Submitted filled 0.0 remaining 79.0 lastFillPrice 0.0
+orderStatus - orderid: 85994 status: Submitted filled 0.0 remaining 152.0 lastFillPrice 0.0
+orderStatus - orderid: 86001 status: PreSubmitted filled 0.0 remaining 446.0 lastFillPrice 0.0
+orderStatus - orderid: 86002 status: PreSubmitted filled 0.0 remaining 446.0 lastFillPrice 0.0
+orderStatus - orderid: 86004 status: PreSubmitted filled 0.0 remaining 304.0 lastFillPrice 0.0
+orderStatus - orderid: 86005 status: PreSubmitted filled 0.0 remaining 304.0 lastFillPrice 0.0
+orderStatus - orderid: 86010 status: PreSubmitted filled 0.0 remaining 152.0 lastFillPrice 0.0
+orderStatus - orderid: 86011 status: PreSubmitted filled 0.0 remaining 152.0 lastFillPrice 0.0
+orderStatus - orderid: 86016 status: PreSubmitted filled 0.0 remaining 87.0 lastFillPrice 0.0
+orderStatus - orderid: 86017 status: PreSubmitted filled 0.0 remaining 87.0 lastFillPrice 0.0
+orderStatus - orderid: 86007 status: PreSubmitted filled 0.0 remaining 316.0 lastFillPrice 0.0
+orderStatus - orderid: 86008 status: PreSubmitted filled 0.0 remaining 316.0 lastFillPrice 0.0
+orderStatus - orderid: 86013 status: PreSubmitted filled 0.0 remaining 505.0 lastFillPrice 0.0
+orderStatus - orderid: 86014 status: PreSubmitted filled 0.0 remaining 505.0 lastFillPrice 0.0
+orderStatus - orderid: 86000 status: Submitted filled 0.0 remaining 446.0 lastFillPrice 0.0
+orderStatus - orderid: 86003 status: Submitted filled 0.0 remaining 304.0 lastFillPrice 0.0
+orderStatus - orderid: 86009 status: Submitted filled 0.0 remaining 152.0 lastFillPrice 0.0
+orderStatus - orderid: 86019 status: PreSubmitted filled 0.0 remaining 150.0 lastFillPrice 0.0
+orderStatus - orderid: 86020 status: PreSubmitted filled 0.0 remaining 150.0 lastFillPrice 0.0
+orderStatus - orderid: 86015 status: Submitted filled 0.0 remaining 87.0 lastFillPrice 0.0
+orderStatus - orderid: 86006 status: Submitted filled 0.0 remaining 316.0 lastFillPrice 0.0
+orderStatus - orderid: 86012 status: Submitted filled 0.0 remaining 505.0 lastFillPrice 0.0
+orderStatus - orderid: 86018 status: Submitted filled 0.0 remaining 150.0 lastFillPrice 0.0
+orderStatus - orderid: 86022 status: PreSubmitted filled 0.0 remaining 85.0 lastFillPrice 0.0
+orderStatus - orderid: 86023 status: PreSubmitted filled 0.0 remaining 85.0 lastFillPrice 0.0
+orderStatus - orderid: 86021 status: Submitted filled 0.0 remaining 85.0 lastFillPrice 0.0
+ticker: MUR
+previous close: 19.37
+intended quantity: 123
+intended stop price: 22.95
+86024
+86024
+86024
+ticker: ETWO
+previous close: 10.07
+intended quantity: 237
+intended stop price: 11.93
+86027
+86027
+86027
+ticker: DKS
+previous close: 109.82
+intended quantity: 21
+intended stop price: 130.14
+86030
+86030
+86030
+ticker: GT
+previous close: 14.47
+intended quantity: 165
+intended stop price: 17.15
+86033
+86033
+86033
+ticker: APA
+previous close: 16.07
+intended quantity: 148
+intended stop price: 19.04
+86036
+86036
+86036
+ticker: R
+previous close: 74.4
+intended quantity: 32
+intended stop price: 88.16
+86039
+86039
+86039
+ticker: ERF
+previous close: 4.96
+intended quantity: 482
+intended stop price: 5.88
+86042
+86042
+86042
+ticker: AA
+previous close: 37.71
+intended quantity: 63
+intended stop price: 44.69
+86045
+86045
+86045
+ticker: KC
+previous close: 25.43
+intended quantity: 94
+intended stop price: 30.13
+86048
+86048
+86048
+ticker: MAXR
+previous close: 27.68
+intended quantity: 86
+intended stop price: 32.8
+86051
+86051
+86051
+ticker: CNR
+previous close: 15.28
+intended quantity: 156
+intended stop price: 18.11
+86054
+86054
+86054
+ticker: HYLN
+previous close: 8.17
+intended quantity: 292
+intended stop price: 9.68
+86057
+86057
+86057
+ticker: LEV
+previous close: 11.51
+intended quantity: 207
+intended stop price: 13.64
+86060
+86060
+86060
+ticker: FSR
+previous close: 13.29
+intended quantity: 180
+intended stop price: 15.75
+86063
+86063
+86063
+ticker: ASTR
+previous close: 9.62
+intended quantity: 248
+intended stop price: 11.4
+86066
+86066
+86066
+orderStatus - orderid: 86025 status: PreSubmitted filled 0.0 remaining 190.0 lastFillPrice 0.0
+orderStatus - orderid: 86026 status: PreSubmitted filled 0.0 remaining 190.0 lastFillPrice 0.0
+orderStatus - orderid: 86028 status: PreSubmitted filled 0.0 remaining 365.0 lastFillPrice 0.0
+orderStatus - orderid: 86029 status: PreSubmitted filled 0.0 remaining 365.0 lastFillPrice 0.0
+orderStatus - orderid: 86024 status: Submitted filled 0.0 remaining 190.0 lastFillPrice 0.0
+orderStatus - orderid: 86027 status: Submitted filled 0.0 remaining 365.0 lastFillPrice 0.0
+orderStatus - orderid: 86034 status: PreSubmitted filled 0.0 remaining 254.0 lastFillPrice 0.0
+orderStatus - orderid: 86035 status: PreSubmitted filled 0.0 remaining 254.0 lastFillPrice 0.0
+orderStatus - orderid: 86031 status: PreSubmitted filled 0.0 remaining 33.0 lastFillPrice 0.0
+orderStatus - orderid: 86032 status: PreSubmitted filled 0.0 remaining 33.0 lastFillPrice 0.0
+orderStatus - orderid: 86040 status: PreSubmitted filled 0.0 remaining 49.0 lastFillPrice 0.0
+orderStatus - orderid: 86041 status: PreSubmitted filled 0.0 remaining 49.0 lastFillPrice 0.0
+orderStatus - orderid: 86046 status: PreSubmitted filled 0.0 remaining 97.0 lastFillPrice 0.0
+orderStatus - orderid: 86047 status: PreSubmitted filled 0.0 remaining 97.0 lastFillPrice 0.0
+orderStatus - orderid: 86037 status: PreSubmitted filled 0.0 remaining 229.0 lastFillPrice 0.0
+orderStatus - orderid: 86038 status: PreSubmitted filled 0.0 remaining 229.0 lastFillPrice 0.0
+orderStatus - orderid: 86030 status: Submitted filled 0.0 remaining 33.0 lastFillPrice 0.0
+orderStatus - orderid: 86033 status: Submitted filled 0.0 remaining 254.0 lastFillPrice 0.0
+orderStatus - orderid: 86043 status: PreSubmitted filled 0.0 remaining 742.0 lastFillPrice 0.0
+orderStatus - orderid: 86044 status: PreSubmitted filled 0.0 remaining 742.0 lastFillPrice 0.0
+orderStatus - orderid: 86049 status: PreSubmitted filled 0.0 remaining 144.0 lastFillPrice 0.0
+orderStatus - orderid: 86050 status: PreSubmitted filled 0.0 remaining 144.0 lastFillPrice 0.0
+orderStatus - orderid: 86039 status: Submitted filled 0.0 remaining 49.0 lastFillPrice 0.0
+orderStatus - orderid: 86045 status: Submitted filled 0.0 remaining 97.0 lastFillPrice 0.0
+orderStatus - orderid: 86036 status: Submitted filled 0.0 remaining 229.0 lastFillPrice 0.0
+orderStatus - orderid: 86042 status: Submitted filled 0.0 remaining 742.0 lastFillPrice 0.0
+orderStatus - orderid: 86048 status: Submitted filled 0.0 remaining 144.0 lastFillPrice 0.0
+orderStatus - orderid: 86058 status: PreSubmitted filled 0.0 remaining 450.0 lastFillPrice 0.0
+orderStatus - orderid: 86059 status: PreSubmitted filled 0.0 remaining 450.0 lastFillPrice 0.0
+orderStatus - orderid: 86052 status: PreSubmitted filled 0.0 remaining 133.0 lastFillPrice 0.0
+orderStatus - orderid: 86053 status: PreSubmitted filled 0.0 remaining 133.0 lastFillPrice 0.0
+orderStatus - orderid: 86061 status: PreSubmitted filled 0.0 remaining 319.0 lastFillPrice 0.0
+orderStatus - orderid: 86062 status: PreSubmitted filled 0.0 remaining 319.0 lastFillPrice 0.0
+orderStatus - orderid: 86064 status: PreSubmitted filled 0.0 remaining 277.0 lastFillPrice 0.0
+orderStatus - orderid: 86065 status: PreSubmitted filled 0.0 remaining 277.0 lastFillPrice 0.0
+orderStatus - orderid: 86055 status: PreSubmitted filled 0.0 remaining 241.0 lastFillPrice 0.0
+orderStatus - orderid: 86056 status: PreSubmitted filled 0.0 remaining 241.0 lastFillPrice 0.0
+orderStatus - orderid: 86057 status: Submitted filled 0.0 remaining 450.0 lastFillPrice 0.0
+orderStatus - orderid: 86051 status: Submitted filled 0.0 remaining 133.0 lastFillPrice 0.0
+orderStatus - orderid: 86067 status: PreSubmitted filled 0.0 remaining 382.0 lastFillPrice 0.0
+orderStatus - orderid: 86068 status: PreSubmitted filled 0.0 remaining 382.0 lastFillPrice 0.0
+orderStatus - orderid: 86060 status: Submitted filled 0.0 remaining 319.0 lastFillPrice 0.0
+orderStatus - orderid: 86054 status: Submitted filled 0.0 remaining 241.0 lastFillPrice 0.0
+orderStatus - orderid: 86063 status: Submitted filled 0.0 remaining 277.0 lastFillPrice 0.0
+orderStatus - orderid: 86066 status: Submitted filled 0.0 remaining 382.0 lastFillPrice 0.0
+ticker: FINV
+previous close: 5.78
+intended quantity: 414
+intended stop price: 6.85
+86069
+86069
+86069
+ticker: FOUR
+previous close: 78.82
+intended quantity: 30
+intended stop price: 93.4
+86072
+86072
+86072
+ticker: MOMO
+previous close: 11.78
+intended quantity: 203
+intended stop price: 13.96
+86075
+86075
+86075
+ticker: VTWO
+previous close: 87.05
+intended quantity: 27
+intended stop price: 103.15
+86078
+86078
+86078
+ticker: WSC
+previous close: 26.98
+intended quantity: 88
+intended stop price: 31.97
+86081
+86081
+86081
+ticker: AEVA
+previous close: 7.66
+intended quantity: 312
+intended stop price: 9.08
+86084
+86084
+86084
+ticker: BEAM
+previous close: 101.95
+intended quantity: 23
+intended stop price: 120.81
+86087
+86087
+86087
+ticker: SI
+previous close: 100.75
+intended quantity: 23
+intended stop price: 119.39
+86090
+86090
+86090
+ticker: SHO
+previous close: 10.8
+intended quantity: 221
+intended stop price: 12.8
+86093
+86093
+86093
+ticker: PAAS
+previous close: 23.93
+intended quantity: 100
+intended stop price: 28.36
+86096
+86096
+86096
+ticker: CMRE
+previous close: 11.87
+intended quantity: 201
+intended stop price: 14.07
+86099
+86099
+86099
+ticker: SLQT
+previous close: 13.35
+intended quantity: 179
+intended stop price: 15.82
+86102
+86102
+86102
+ticker: HFC
+previous close: 28.86
+intended quantity: 82
+intended stop price: 34.2
+86105
+86105
+86105
+ticker: MRVI
+previous close: 60.62
+intended quantity: 39
+intended stop price: 71.83
+86108
+86108
+86108
+ticker: ALIT
+previous close: 10.0
+intended quantity: 239
+intended stop price: 11.85
+86111
+86111
+86111
+orderStatus - orderid: 86070 status: PreSubmitted filled 0.0 remaining 637.0 lastFillPrice 0.0
+orderStatus - orderid: 86071 status: PreSubmitted filled 0.0 remaining 637.0 lastFillPrice 0.0
+orderStatus - orderid: 86069 status: Submitted filled 0.0 remaining 637.0 lastFillPrice 0.0
+orderStatus - orderid: 86076 status: PreSubmitted filled 0.0 remaining 312.0 lastFillPrice 0.0
+orderStatus - orderid: 86077 status: PreSubmitted filled 0.0 remaining 312.0 lastFillPrice 0.0
+orderStatus - orderid: 86085 status: PreSubmitted filled 0.0 remaining 480.0 lastFillPrice 0.0
+orderStatus - orderid: 86086 status: PreSubmitted filled 0.0 remaining 480.0 lastFillPrice 0.0
+orderStatus - orderid: 86079 status: PreSubmitted filled 0.0 remaining 42.0 lastFillPrice 0.0
+orderStatus - orderid: 86080 status: PreSubmitted filled 0.0 remaining 42.0 lastFillPrice 0.0
+orderStatus - orderid: 86082 status: PreSubmitted filled 0.0 remaining 136.0 lastFillPrice 0.0
+orderStatus - orderid: 86083 status: PreSubmitted filled 0.0 remaining 136.0 lastFillPrice 0.0
+orderStatus - orderid: 86088 status: PreSubmitted filled 0.0 remaining 36.0 lastFillPrice 0.0
+orderStatus - orderid: 86089 status: PreSubmitted filled 0.0 remaining 36.0 lastFillPrice 0.0
+orderStatus - orderid: 86084 status: Submitted filled 0.0 remaining 480.0 lastFillPrice 0.0
+orderStatus - orderid: 86075 status: Submitted filled 0.0 remaining 312.0 lastFillPrice 0.0
+orderStatus - orderid: 86073 status: PreSubmitted filled 0.0 remaining 46.0 lastFillPrice 0.0
+orderStatus - orderid: 86074 status: PreSubmitted filled 0.0 remaining 46.0 lastFillPrice 0.0
+orderStatus - orderid: 86078 status: Submitted filled 0.0 remaining 42.0 lastFillPrice 0.0
+orderStatus - orderid: 86081 status: Submitted filled 0.0 remaining 136.0 lastFillPrice 0.0
+orderStatus - orderid: 86087 status: Submitted filled 0.0 remaining 36.0 lastFillPrice 0.0
+orderStatus - orderid: 86072 status: Submitted filled 0.0 remaining 46.0 lastFillPrice 0.0
+orderStatus - orderid: 86097 status: PreSubmitted filled 0.0 remaining 153.0 lastFillPrice 0.0
+orderStatus - orderid: 86098 status: PreSubmitted filled 0.0 remaining 153.0 lastFillPrice 0.0
+orderStatus - orderid: 86091 status: PreSubmitted filled 0.0 remaining 36.0 lastFillPrice 0.0
+orderStatus - orderid: 86092 status: PreSubmitted filled 0.0 remaining 36.0 lastFillPrice 0.0
+orderStatus - orderid: 86094 status: PreSubmitted filled 0.0 remaining 340.0 lastFillPrice 0.0
+orderStatus - orderid: 86095 status: PreSubmitted filled 0.0 remaining 340.0 lastFillPrice 0.0
+orderStatus - orderid: 86096 status: Submitted filled 0.0 remaining 153.0 lastFillPrice 0.0
+orderStatus - orderid: 86103 status: PreSubmitted filled 0.0 remaining 275.0 lastFillPrice 0.0
+orderStatus - orderid: 86104 status: PreSubmitted filled 0.0 remaining 275.0 lastFillPrice 0.0
+orderStatus - orderid: 86106 status: PreSubmitted filled 0.0 remaining 127.0 lastFillPrice 0.0
+orderStatus - orderid: 86107 status: PreSubmitted filled 0.0 remaining 127.0 lastFillPrice 0.0
+orderStatus - orderid: 86109 status: PreSubmitted filled 0.0 remaining 60.0 lastFillPrice 0.0
+orderStatus - orderid: 86110 status: PreSubmitted filled 0.0 remaining 60.0 lastFillPrice 0.0
+orderStatus - orderid: 86112 status: PreSubmitted filled 0.0 remaining 368.0 lastFillPrice 0.0
+orderStatus - orderid: 86113 status: PreSubmitted filled 0.0 remaining 368.0 lastFillPrice 0.0
+orderStatus - orderid: 86090 status: Submitted filled 0.0 remaining 36.0 lastFillPrice 0.0
+orderStatus - orderid: 86093 status: Submitted filled 0.0 remaining 340.0 lastFillPrice 0.0
+orderStatus - orderid: 86102 status: Submitted filled 0.0 remaining 275.0 lastFillPrice 0.0
+orderStatus - orderid: 86100 status: PreSubmitted filled 0.0 remaining 310.0 lastFillPrice 0.0
+orderStatus - orderid: 86101 status: PreSubmitted filled 0.0 remaining 310.0 lastFillPrice 0.0
+orderStatus - orderid: 86105 status: Submitted filled 0.0 remaining 127.0 lastFillPrice 0.0
+orderStatus - orderid: 86108 status: Submitted filled 0.0 remaining 60.0 lastFillPrice 0.0
+orderStatus - orderid: 86099 status: Submitted filled 0.0 remaining 310.0 lastFillPrice 0.0
+orderStatus - orderid: 86111 status: Submitted filled 0.0 remaining 368.0 lastFillPrice 0.0
+ticker: SHLX
+previous close: 11.6
+intended quantity: 206
+intended stop price: 13.75
+86114
+86114
+86114
+ticker: NOV
+previous close: 12.19
+intended quantity: 196
+intended stop price: 14.45
+86117
+86117
+86117
+ticker: PCT
+previous close: 11.98
+intended quantity: 199
+intended stop price: 14.2
+86120
+86120
+86120
+ticker: CIEN
+previous close: 54.99
+intended quantity: 43
+intended stop price: 65.16
+86123
+86123
+86123
+ticker: INO
+previous close: 8.08
+intended quantity: 296
+intended stop price: 9.57
+86126
+86126
+86126
+ticker: PVG
+previous close: 9.51
+intended quantity: 251
+intended stop price: 11.27
+86129
+86129
+86129
+ticker: MP
+previous close: 30.91
+intended quantity: 77
+intended stop price: 36.63
+86132
+86132
+86132
+ticker: ESI
+previous close: 23.0
+intended quantity: 104
+intended stop price: 27.25
+86135
+86135
+86135
+ticker: SJI
+previous close: 24.72
+intended quantity: 96
+intended stop price: 29.29
+86138
+86138
+86138
+ticker: SPWR
+previous close: 20.94
+intended quantity: 114
+intended stop price: 24.81
+86141
+86141
+86141
+ticker: ACVA
+previous close: 18.51
+intended quantity: 129
+intended stop price: 21.93
+86144
+86144
+86144
+ticker: DNMR
+previous close: 15.02
+intended quantity: 159
+intended stop price: 17.8
+86147
+86147
+86147
+ticker: STEM
+previous close: 21.43
+intended quantity: 111
+intended stop price: 25.39
+86150
+86150
+86150
+ticker: ZUO
+previous close: 15.65
+intended quantity: 152
+intended stop price: 18.55
+86153
+86153
+86153
+ticker: IQ
+previous close: 8.33
+intended quantity: 287
+intended stop price: 9.87
+86156
+86156
+86156
+orderStatus - orderid: 86115 status: PreSubmitted filled 0.0 remaining 317.0 lastFillPrice 0.0
+orderStatus - orderid: 86116 status: PreSubmitted filled 0.0 remaining 317.0 lastFillPrice 0.0
+orderStatus - orderid: 86114 status: Submitted filled 0.0 remaining 317.0 lastFillPrice 0.0
+orderStatus - orderid: 86118 status: PreSubmitted filled 0.0 remaining 302.0 lastFillPrice 0.0
+orderStatus - orderid: 86119 status: PreSubmitted filled 0.0 remaining 302.0 lastFillPrice 0.0
+orderStatus - orderid: 86121 status: PreSubmitted filled 0.0 remaining 307.0 lastFillPrice 0.0
+orderStatus - orderid: 86122 status: PreSubmitted filled 0.0 remaining 307.0 lastFillPrice 0.0
+orderStatus - orderid: 86124 status: PreSubmitted filled 0.0 remaining 66.0 lastFillPrice 0.0
+orderStatus - orderid: 86125 status: PreSubmitted filled 0.0 remaining 66.0 lastFillPrice 0.0
+orderStatus - orderid: 86127 status: PreSubmitted filled 0.0 remaining 455.0 lastFillPrice 0.0
+orderStatus - orderid: 86128 status: PreSubmitted filled 0.0 remaining 455.0 lastFillPrice 0.0
+orderStatus - orderid: 86117 status: Submitted filled 0.0 remaining 302.0 lastFillPrice 0.0
+orderStatus - orderid: 86120 status: Submitted filled 0.0 remaining 307.0 lastFillPrice 0.0
+orderStatus - orderid: 86130 status: PreSubmitted filled 0.0 remaining 387.0 lastFillPrice 0.0
+orderStatus - orderid: 86131 status: PreSubmitted filled 0.0 remaining 387.0 lastFillPrice 0.0
+orderStatus - orderid: 86123 status: Submitted filled 0.0 remaining 66.0 lastFillPrice 0.0
+orderStatus - orderid: 86126 status: Submitted filled 0.0 remaining 455.0 lastFillPrice 0.0
+orderStatus - orderid: 86133 status: PreSubmitted filled 0.0 remaining 119.0 lastFillPrice 0.0
+orderStatus - orderid: 86134 status: PreSubmitted filled 0.0 remaining 119.0 lastFillPrice 0.0
+orderStatus - orderid: 86136 status: PreSubmitted filled 0.0 remaining 160.0 lastFillPrice 0.0
+orderStatus - orderid: 86137 status: PreSubmitted filled 0.0 remaining 160.0 lastFillPrice 0.0
+orderStatus - orderid: 86129 status: Submitted filled 0.0 remaining 387.0 lastFillPrice 0.0
+orderStatus - orderid: 86139 status: PreSubmitted filled 0.0 remaining 148.0 lastFillPrice 0.0
+orderStatus - orderid: 86140 status: PreSubmitted filled 0.0 remaining 148.0 lastFillPrice 0.0
+orderStatus - orderid: 86142 status: PreSubmitted filled 0.0 remaining 175.0 lastFillPrice 0.0
+orderStatus - orderid: 86143 status: PreSubmitted filled 0.0 remaining 175.0 lastFillPrice 0.0
+orderStatus - orderid: 86145 status: PreSubmitted filled 0.0 remaining 198.0 lastFillPrice 0.0
+orderStatus - orderid: 86146 status: PreSubmitted filled 0.0 remaining 198.0 lastFillPrice 0.0
+orderStatus - orderid: 86135 status: Submitted filled 0.0 remaining 160.0 lastFillPrice 0.0
+orderStatus - orderid: 86132 status: Submitted filled 0.0 remaining 119.0 lastFillPrice 0.0
+orderStatus - orderid: 86148 status: PreSubmitted filled 0.0 remaining 245.0 lastFillPrice 0.0
+orderStatus - orderid: 86149 status: PreSubmitted filled 0.0 remaining 245.0 lastFillPrice 0.0
+orderStatus - orderid: 86157 status: PreSubmitted filled 0.0 remaining 442.0 lastFillPrice 0.0
+orderStatus - orderid: 86158 status: PreSubmitted filled 0.0 remaining 442.0 lastFillPrice 0.0
+orderStatus - orderid: 86154 status: PreSubmitted filled 0.0 remaining 235.0 lastFillPrice 0.0
+orderStatus - orderid: 86155 status: PreSubmitted filled 0.0 remaining 235.0 lastFillPrice 0.0
+orderStatus - orderid: 86151 status: PreSubmitted filled 0.0 remaining 171.0 lastFillPrice 0.0
+orderStatus - orderid: 86152 status: PreSubmitted filled 0.0 remaining 171.0 lastFillPrice 0.0
+orderStatus - orderid: 86141 status: Submitted filled 0.0 remaining 175.0 lastFillPrice 0.0
+orderStatus - orderid: 86144 status: Submitted filled 0.0 remaining 198.0 lastFillPrice 0.0
+orderStatus - orderid: 86147 status: Submitted filled 0.0 remaining 245.0 lastFillPrice 0.0
+orderStatus - orderid: 86153 status: Submitted filled 0.0 remaining 235.0 lastFillPrice 0.0
+orderStatus - orderid: 86156 status: Submitted filled 0.0 remaining 442.0 lastFillPrice 0.0
+orderStatus - orderid: 86150 status: Submitted filled 0.0 remaining 171.0 lastFillPrice 0.0
+ticker: HBM
+previous close: 5.38
+intended quantity: 444
+intended stop price: 6.38
+86159
+86159
+86159
+ticker: REGI
+previous close: 46.99
+intended quantity: 50
+intended stop price: 55.68
+86162
+86162
+86162
+ticker: DAO
+previous close: 10.05
+intended quantity: 238
+intended stop price: 11.91
+86165
+86165
+86165
+ticker: YOU
+previous close: 47.74
+intended quantity: 50
+intended stop price: 56.57
+86168
+86168
+86168
+ticker: QS
+previous close: 19.61
+intended quantity: 122
+intended stop price: 23.24
+86171
+86171
+86171
+ticker: SSRM
+previous close: 15.37
+intended quantity: 155
+intended stop price: 18.21
+86174
+86174
+86174
+ticker: CPRI
+previous close: 54.33
+intended quantity: 44
+intended stop price: 64.38
+86177
+86177
+86177
+ticker: CF
+previous close: 44.47
+intended quantity: 53
+intended stop price: 52.7
+86180
+86180
+86180
+ticker: TUP
+previous close: 22.35
+intended quantity: 107
+intended stop price: 26.48
+86183
+86183
+86183
+ticker: ENVX
+previous close: 13.99
+intended quantity: 171
+intended stop price: 16.58
+86186
+86186
+86186
+ticker: ELY
+previous close: 28.55
+intended quantity: 83
+intended stop price: 33.83
+86189
+86189
+86189
+ticker: VSTO
+previous close: 40.55
+intended quantity: 59
+intended stop price: 48.05
+86192
+86192
+86192
+ticker: GXO
+previous close: 77.05
+intended quantity: 31
+intended stop price: 91.3
+86195
+86195
+86195
+ticker: AM
+previous close: 8.9
+intended quantity: 268
+intended stop price: 10.55
+86198
+86198
+86198
+ticker: IYE
+previous close: 24.9
+intended quantity: 96
+intended stop price: 29.51
+86201
+86201
+86201
+orderStatus - orderid: 86138 status: Submitted filled 0.0 remaining 148.0 lastFillPrice 0.0
+orderStatus - orderid: 86160 status: PreSubmitted filled 0.0 remaining 684.0 lastFillPrice 0.0
+orderStatus - orderid: 86161 status: PreSubmitted filled 0.0 remaining 684.0 lastFillPrice 0.0
+orderStatus - orderid: 86163 status: PreSubmitted filled 0.0 remaining 78.0 lastFillPrice 0.0
+orderStatus - orderid: 86164 status: PreSubmitted filled 0.0 remaining 78.0 lastFillPrice 0.0
+orderStatus - orderid: 86159 status: Submitted filled 0.0 remaining 684.0 lastFillPrice 0.0
+orderStatus - orderid: 86162 status: Submitted filled 0.0 remaining 78.0 lastFillPrice 0.0
+orderStatus - orderid: 86166 status: PreSubmitted filled 0.0 remaining 366.0 lastFillPrice 0.0
+orderStatus - orderid: 86167 status: PreSubmitted filled 0.0 remaining 366.0 lastFillPrice 0.0
+orderStatus - orderid: 86172 status: PreSubmitted filled 0.0 remaining 187.0 lastFillPrice 0.0
+orderStatus - orderid: 86173 status: PreSubmitted filled 0.0 remaining 187.0 lastFillPrice 0.0
+orderStatus - orderid: 86169 status: PreSubmitted filled 0.0 remaining 77.0 lastFillPrice 0.0
+orderStatus - orderid: 86170 status: PreSubmitted filled 0.0 remaining 77.0 lastFillPrice 0.0
+orderStatus - orderid: 86175 status: PreSubmitted filled 0.0 remaining 239.0 lastFillPrice 0.0
+orderStatus - orderid: 86176 status: PreSubmitted filled 0.0 remaining 239.0 lastFillPrice 0.0
+orderStatus - orderid: 86178 status: PreSubmitted filled 0.0 remaining 67.0 lastFillPrice 0.0
+orderStatus - orderid: 86179 status: PreSubmitted filled 0.0 remaining 67.0 lastFillPrice 0.0
+orderStatus - orderid: 86165 status: Submitted filled 0.0 remaining 366.0 lastFillPrice 0.0
+orderStatus - orderid: 86171 status: Submitted filled 0.0 remaining 187.0 lastFillPrice 0.0
+orderStatus - orderid: 86181 status: PreSubmitted filled 0.0 remaining 82.0 lastFillPrice 0.0
+orderStatus - orderid: 86182 status: PreSubmitted filled 0.0 remaining 82.0 lastFillPrice 0.0
+orderStatus - orderid: 86168 status: Submitted filled 0.0 remaining 77.0 lastFillPrice 0.0
+orderStatus - orderid: 86177 status: Submitted filled 0.0 remaining 67.0 lastFillPrice 0.0
+orderStatus - orderid: 86174 status: Submitted filled 0.0 remaining 239.0 lastFillPrice 0.0
+orderStatus - orderid: 86180 status: Submitted filled 0.0 remaining 82.0 lastFillPrice 0.0
+orderStatus - orderid: 86187 status: PreSubmitted filled 0.0 remaining 263.0 lastFillPrice 0.0
+orderStatus - orderid: 86188 status: PreSubmitted filled 0.0 remaining 263.0 lastFillPrice 0.0
+orderStatus - orderid: 86186 status: Submitted filled 0.0 remaining 263.0 lastFillPrice 0.0
+orderStatus - orderid: 86184 status: PreSubmitted filled 0.0 remaining 164.0 lastFillPrice 0.0
+orderStatus - orderid: 86185 status: PreSubmitted filled 0.0 remaining 164.0 lastFillPrice 0.0
+orderStatus - orderid: 86190 status: PreSubmitted filled 0.0 remaining 128.0 lastFillPrice 0.0
+orderStatus - orderid: 86191 status: PreSubmitted filled 0.0 remaining 128.0 lastFillPrice 0.0
+orderStatus - orderid: 86193 status: PreSubmitted filled 0.0 remaining 90.0 lastFillPrice 0.0
+orderStatus - orderid: 86194 status: PreSubmitted filled 0.0 remaining 90.0 lastFillPrice 0.0
+orderStatus - orderid: 86202 status: PreSubmitted filled 0.0 remaining 147.0 lastFillPrice 0.0
+orderStatus - orderid: 86203 status: PreSubmitted filled 0.0 remaining 147.0 lastFillPrice 0.0
+orderStatus - orderid: 86196 status: PreSubmitted filled 0.0 remaining 47.0 lastFillPrice 0.0
+orderStatus - orderid: 86197 status: PreSubmitted filled 0.0 remaining 47.0 lastFillPrice 0.0
+orderStatus - orderid: 86183 status: Submitted filled 0.0 remaining 164.0 lastFillPrice 0.0
+orderStatus - orderid: 86189 status: Submitted filled 0.0 remaining 128.0 lastFillPrice 0.0
+orderStatus - orderid: 86199 status: PreSubmitted filled 0.0 remaining 413.0 lastFillPrice 0.0
+orderStatus - orderid: 86200 status: PreSubmitted filled 0.0 remaining 413.0 lastFillPrice 0.0
+orderStatus - orderid: 86192 status: Submitted filled 0.0 remaining 90.0 lastFillPrice 0.0
+orderStatus - orderid: 86195 status: Submitted filled 0.0 remaining 47.0 lastFillPrice 0.0
+orderStatus - orderid: 86198 status: Submitted filled 0.0 remaining 413.0 lastFillPrice 0.0
+orderStatus - orderid: 86201 status: Submitted filled 0.0 remaining 147.0 lastFillPrice 0.0
+ticker: CPE
+previous close: 26.98
+intended quantity: 88
+intended stop price: 31.97
+86204
+86204
+86204
+ticker: GOGL
+previous close: 10.04
+intended quantity: 238
+intended stop price: 11.9
+86207
+86207
+86207
+ticker: YALA
+previous close: 9.41
+intended quantity: 254
+intended stop price: 11.15
+86210
+86210
+86210
+ticker: AROC
+previous close: 7.3
+intended quantity: 327
+intended stop price: 8.65
+86213
+86213
+86213
+ticker: CAR
+previous close: 89.8
+intended quantity: 26
+intended stop price: 106.41
+86216
+86216
+86216
+ticker: CNDT
+previous close: 6.9
+intended quantity: 346
+intended stop price: 8.18
+86219
+86219
+86219
+ticker: BLMN
+previous close: 24.33
+intended quantity: 98
+intended stop price: 28.83
+86222
+86222
+86222
+ticker: PTRA
+previous close: 9.07
+intended quantity: 263
+intended stop price: 10.75
+86225
+86225
+86225
+ticker: TUYA
+previous close: 10.46
+intended quantity: 228
+intended stop price: 12.4
+86228
+86228
+86228
+ticker: CELH
+previous close: 65.99
+intended quantity: 36
+intended stop price: 78.2
+86231
+86231
+86231
+ticker: MTDR
+previous close: 25.59
+intended quantity: 93
+intended stop price: 30.32
+86234
+86234
+86234
+ticker: LX
+previous close: 6.94
+intended quantity: 344
+intended stop price: 8.22
+86237
+86237
+86237
+ticker: SMAR
+previous close: 73.22
+intended quantity: 32
+intended stop price: 86.77
+86240
+86240
+86240
+ticker: XPO
+previous close: 84.79
+intended quantity: 28
+intended stop price: 100.48
+86243
+86243
+86243
+ticker: CYH
+previous close: 12.7
+intended quantity: 188
+intended stop price: 15.05
+86246
+86246
+86246
+orderStatus - orderid: 86205 status: PreSubmitted filled 0.0 remaining 136.0 lastFillPrice 0.0
+orderStatus - orderid: 86206 status: PreSubmitted filled 0.0 remaining 136.0 lastFillPrice 0.0
+orderStatus - orderid: 86214 status: PreSubmitted filled 0.0 remaining 504.0 lastFillPrice 0.0
+orderStatus - orderid: 86215 status: PreSubmitted filled 0.0 remaining 504.0 lastFillPrice 0.0
+orderStatus - orderid: 86204 status: Submitted filled 0.0 remaining 136.0 lastFillPrice 0.0
+orderStatus - orderid: 86223 status: PreSubmitted filled 0.0 remaining 151.0 lastFillPrice 0.0
+orderStatus - orderid: 86224 status: PreSubmitted filled 0.0 remaining 151.0 lastFillPrice 0.0
+orderStatus - orderid: 86208 status: PreSubmitted filled 0.0 remaining 366.0 lastFillPrice 0.0
+orderStatus - orderid: 86209 status: PreSubmitted filled 0.0 remaining 366.0 lastFillPrice 0.0
+orderStatus - orderid: 86213 status: Submitted filled 0.0 remaining 504.0 lastFillPrice 0.0
+orderStatus - orderid: 86211 status: PreSubmitted filled 0.0 remaining 391.0 lastFillPrice 0.0
+orderStatus - orderid: 86212 status: PreSubmitted filled 0.0 remaining 391.0 lastFillPrice 0.0
+orderStatus - orderid: 86220 status: PreSubmitted filled 0.0 remaining 533.0 lastFillPrice 0.0
+orderStatus - orderid: 86221 status: PreSubmitted filled 0.0 remaining 533.0 lastFillPrice 0.0
+orderStatus - orderid: 86217 status: PreSubmitted filled 0.0 remaining 41.0 lastFillPrice 0.0
+orderStatus - orderid: 86218 status: PreSubmitted filled 0.0 remaining 41.0 lastFillPrice 0.0
+orderStatus - orderid: 86207 status: Submitted filled 0.0 remaining 366.0 lastFillPrice 0.0
+orderStatus - orderid: 86222 status: Submitted filled 0.0 remaining 151.0 lastFillPrice 0.0
+orderStatus - orderid: 86226 status: PreSubmitted filled 0.0 remaining 406.0 lastFillPrice 0.0
+orderStatus - orderid: 86227 status: PreSubmitted filled 0.0 remaining 406.0 lastFillPrice 0.0
+orderStatus - orderid: 86229 status: PreSubmitted filled 0.0 remaining 352.0 lastFillPrice 0.0
+orderStatus - orderid: 86230 status: PreSubmitted filled 0.0 remaining 352.0 lastFillPrice 0.0
+orderStatus - orderid: 86210 status: Submitted filled 0.0 remaining 391.0 lastFillPrice 0.0
+orderStatus - orderid: 86219 status: Submitted filled 0.0 remaining 533.0 lastFillPrice 0.0
+orderStatus - orderid: 86216 status: Submitted filled 0.0 remaining 41.0 lastFillPrice 0.0
+orderStatus - orderid: 86232 status: PreSubmitted filled 0.0 remaining 55.0 lastFillPrice 0.0
+orderStatus - orderid: 86233 status: PreSubmitted filled 0.0 remaining 55.0 lastFillPrice 0.0
+orderStatus - orderid: 86225 status: Submitted filled 0.0 remaining 406.0 lastFillPrice 0.0
+orderStatus - orderid: 86238 status: PreSubmitted filled 0.0 remaining 530.0 lastFillPrice 0.0
+orderStatus - orderid: 86239 status: PreSubmitted filled 0.0 remaining 530.0 lastFillPrice 0.0
+orderStatus - orderid: 86235 status: PreSubmitted filled 0.0 remaining 143.0 lastFillPrice 0.0
+orderStatus - orderid: 86236 status: PreSubmitted filled 0.0 remaining 143.0 lastFillPrice 0.0
+orderStatus - orderid: 86231 status: Submitted filled 0.0 remaining 55.0 lastFillPrice 0.0
+orderStatus - orderid: 86244 status: PreSubmitted filled 0.0 remaining 43.0 lastFillPrice 0.0
+orderStatus - orderid: 86245 status: PreSubmitted filled 0.0 remaining 43.0 lastFillPrice 0.0
+orderStatus - orderid: 86241 status: PreSubmitted filled 0.0 remaining 50.0 lastFillPrice 0.0
+orderStatus - orderid: 86242 status: PreSubmitted filled 0.0 remaining 50.0 lastFillPrice 0.0
+orderStatus - orderid: 86247 status: PreSubmitted filled 0.0 remaining 289.0 lastFillPrice 0.0
+orderStatus - orderid: 86248 status: PreSubmitted filled 0.0 remaining 289.0 lastFillPrice 0.0
+orderStatus - orderid: 86234 status: Submitted filled 0.0 remaining 143.0 lastFillPrice 0.0
+orderStatus - orderid: 86237 status: Submitted filled 0.0 remaining 530.0 lastFillPrice 0.0
+orderStatus - orderid: 86228 status: Submitted filled 0.0 remaining 352.0 lastFillPrice 0.0
+orderStatus - orderid: 86243 status: Submitted filled 0.0 remaining 43.0 lastFillPrice 0.0
+orderStatus - orderid: 86240 status: Submitted filled 0.0 remaining 50.0 lastFillPrice 0.0
+orderStatus - orderid: 86246 status: Submitted filled 0.0 remaining 289.0 lastFillPrice 0.0
+ticker: QFIN
+previous close: 19.45
+intended quantity: 123
+intended stop price: 23.05
+86249
+86249
+86249
+ticker: SONO
+previous close: 37.81
+intended quantity: 63
+intended stop price: 44.8
+86252
+86252
+86252
+ticker: FBP
+previous close: 12.56
+intended quantity: 190
+intended stop price: 14.88
+86255
+86255
+86255
+ticker: PBI
+previous close: 7.36
+intended quantity: 325
+intended stop price: 8.72
+86258
+86258
+86258
+ticker: BLDP
+previous close: 14.83
+intended quantity: 161
+intended stop price: 17.57
+86261
+86261
+86261
+ticker: ETHE
+previous close: 30.84
+intended quantity: 77
+intended stop price: 36.55
+86264
+86264
+86264
+ticker: NNDM
+previous close: 5.64
+intended quantity: 424
+intended stop price: 6.68
+86267
+86267
+86267
+ticker: SFIX
+previous close: 39.71
+intended quantity: 60
+intended stop price: 47.06
+86270
+86270
+86270
+ticker: CC
+previous close: 31.32
+intended quantity: 76
+intended stop price: 37.11
+86273
+86273
+86273
+ticker: SABR
+previous close: 9.54
+intended quantity: 250
+intended stop price: 11.3
+86276
+86276
+86276
+ticker: GFI
+previous close: 8.97
+intended quantity: 266
+intended stop price: 10.63
+86279
+86279
+86279
+ticker: EQT
+previous close: 16.19
+intended quantity: 147
+intended stop price: 19.19
+86282
+86282
+86282
+ticker: PUBM
+previous close: 26.59
+intended quantity: 90
+intended stop price: 31.51
+86285
+86285
+86285
+ticker: FTI
+previous close: 6.19
+intended quantity: 386
+intended stop price: 7.34
+86288
+86288
+86288
+ticker: EH
+previous close: 22.65
+intended quantity: 105
+intended stop price: 26.84
+86291
+86291
+86291
+orderStatus - orderid: 86250 status: PreSubmitted filled 0.0 remaining 189.0 lastFillPrice 0.0
+orderStatus - orderid: 86251 status: PreSubmitted filled 0.0 remaining 189.0 lastFillPrice 0.0
+orderStatus - orderid: 86253 status: PreSubmitted filled 0.0 remaining 97.0 lastFillPrice 0.0
+orderStatus - orderid: 86254 status: PreSubmitted filled 0.0 remaining 97.0 lastFillPrice 0.0
+orderStatus - orderid: 86249 status: Submitted filled 0.0 remaining 189.0 lastFillPrice 0.0
+orderStatus - orderid: 86252 status: Submitted filled 0.0 remaining 97.0 lastFillPrice 0.0
+orderStatus - orderid: 86256 status: PreSubmitted filled 0.0 remaining 293.0 lastFillPrice 0.0
+orderStatus - orderid: 86257 status: PreSubmitted filled 0.0 remaining 293.0 lastFillPrice 0.0
+orderStatus - orderid: 86271 status: PreSubmitted filled 0.0 remaining 92.0 lastFillPrice 0.0
+orderStatus - orderid: 86272 status: PreSubmitted filled 0.0 remaining 92.0 lastFillPrice 0.0
+orderStatus - orderid: 86259 status: PreSubmitted filled 0.0 remaining 500.0 lastFillPrice 0.0
+orderStatus - orderid: 86260 status: PreSubmitted filled 0.0 remaining 500.0 lastFillPrice 0.0
+orderStatus - orderid: 86262 status: PreSubmitted filled 0.0 remaining 248.0 lastFillPrice 0.0
+orderStatus - orderid: 86263 status: PreSubmitted filled 0.0 remaining 248.0 lastFillPrice 0.0
+orderStatus - orderid: 86268 status: PreSubmitted filled 0.0 remaining 652.0 lastFillPrice 0.0
+orderStatus - orderid: 86269 status: PreSubmitted filled 0.0 remaining 652.0 lastFillPrice 0.0
+orderStatus - orderid: 86265 status: PreSubmitted filled 0.0 remaining 119.0 lastFillPrice 0.0
+orderStatus - orderid: 86266 status: PreSubmitted filled 0.0 remaining 119.0 lastFillPrice 0.0
+orderStatus - orderid: 86255 status: Submitted filled 0.0 remaining 293.0 lastFillPrice 0.0
+orderStatus - orderid: 86270 status: Submitted filled 0.0 remaining 92.0 lastFillPrice 0.0
+orderStatus - orderid: 86277 status: PreSubmitted filled 0.0 remaining 386.0 lastFillPrice 0.0
+orderStatus - orderid: 86278 status: PreSubmitted filled 0.0 remaining 386.0 lastFillPrice 0.0
+orderStatus - orderid: 86258 status: Submitted filled 0.0 remaining 500.0 lastFillPrice 0.0
+orderStatus - orderid: 86274 status: PreSubmitted filled 0.0 remaining 117.0 lastFillPrice 0.0
+orderStatus - orderid: 86275 status: PreSubmitted filled 0.0 remaining 117.0 lastFillPrice 0.0
+orderStatus - orderid: 86261 status: Submitted filled 0.0 remaining 248.0 lastFillPrice 0.0
+orderStatus - orderid: 86267 status: Submitted filled 0.0 remaining 652.0 lastFillPrice 0.0
+orderStatus - orderid: 86276 status: Submitted filled 0.0 remaining 386.0 lastFillPrice 0.0
+orderStatus - orderid: 86280 status: PreSubmitted filled 0.0 remaining 410.0 lastFillPrice 0.0
+orderStatus - orderid: 86281 status: PreSubmitted filled 0.0 remaining 410.0 lastFillPrice 0.0
+orderStatus - orderid: 86286 status: PreSubmitted filled 0.0 remaining 138.0 lastFillPrice 0.0
+orderStatus - orderid: 86287 status: PreSubmitted filled 0.0 remaining 138.0 lastFillPrice 0.0
+orderStatus - orderid: 86273 status: Submitted filled 0.0 remaining 117.0 lastFillPrice 0.0
+orderStatus - orderid: 86283 status: PreSubmitted filled 0.0 remaining 227.0 lastFillPrice 0.0
+orderStatus - orderid: 86284 status: PreSubmitted filled 0.0 remaining 227.0 lastFillPrice 0.0
+orderStatus - orderid: 86292 status: PreSubmitted filled 0.0 remaining 162.0 lastFillPrice 0.0
+orderStatus - orderid: 86293 status: PreSubmitted filled 0.0 remaining 162.0 lastFillPrice 0.0
+orderStatus - orderid: 86289 status: PreSubmitted filled 0.0 remaining 594.0 lastFillPrice 0.0
+orderStatus - orderid: 86290 status: PreSubmitted filled 0.0 remaining 594.0 lastFillPrice 0.0
+orderStatus - orderid: 86279 status: Submitted filled 0.0 remaining 410.0 lastFillPrice 0.0
+orderStatus - orderid: 86282 status: Submitted filled 0.0 remaining 227.0 lastFillPrice 0.0
+orderStatus - orderid: 86288 status: Submitted filled 0.0 remaining 594.0 lastFillPrice 0.0
+orderStatus - orderid: 86291 status: Submitted filled 0.0 remaining 162.0 lastFillPrice 0.0
+orderStatus - orderid: 86285 status: Submitted filled 0.0 remaining 138.0 lastFillPrice 0.0
+ticker: SSYS
+previous close: 20.32
+intended quantity: 117
+intended stop price: 24.08
+86294
+86294
+86294
+ticker: WES
+previous close: 18.79
+intended quantity: 127
+intended stop price: 22.27
+86297
+86297
+86297
+ticker: COOK
+previous close: 25.0
+intended quantity: 95
+intended stop price: 29.62
+86300
+86300
+86300
+ticker: EDIT
+previous close: 60.38
+intended quantity: 39
+intended stop price: 71.55
+86303
+86303
+86303
+ticker: GSM
+previous close: 5.66
+intended quantity: 422
+intended stop price: 6.71
+86306
+86306
+86306
+ticker: OSTK
+previous close: 69.58
+intended quantity: 34
+intended stop price: 82.45
+86309
+86309
+86309
+ticker: NIU
+previous close: 24.93
+intended quantity: 96
+intended stop price: 29.54
+86312
+86312
+86312
+ticker: OLN
+previous close: 44.59
+intended quantity: 53
+intended stop price: 52.84
+86315
+86315
+86315
+ticker: CRSR
+previous close: 25.95
+intended quantity: 92
+intended stop price: 30.75
+86318
+86318
+86318
+ticker: KLIC
+previous close: 63.94
+intended quantity: 37
+intended stop price: 75.77
+86321
+86321
+86321
+ticker: DVAX
+previous close: 12.04
+intended quantity: 198
+intended stop price: 14.27
+86324
+86324
+86324
+ticker: AMRN
+previous close: 5.39
+intended quantity: 444
+intended stop price: 6.39
+86327
+86327
+86327
+ticker: VZIO
+previous close: 19.94
+intended quantity: 120
+intended stop price: 23.63
+86330
+86330
+86330
+ticker: OVV
+previous close: 23.13
+intended quantity: 103
+intended stop price: 27.41
+86333
+86333
+86333
+ticker: ORGO
+previous close: 15.03
+intended quantity: 159
+intended stop price: 17.81
+86336
+86336
+86336
+orderStatus - orderid: 86295 status: PreSubmitted filled 0.0 remaining 181.0 lastFillPrice 0.0
+orderStatus - orderid: 86296 status: PreSubmitted filled 0.0 remaining 181.0 lastFillPrice 0.0
+orderStatus - orderid: 86301 status: PreSubmitted filled 0.0 remaining 147.0 lastFillPrice 0.0
+orderStatus - orderid: 86302 status: PreSubmitted filled 0.0 remaining 147.0 lastFillPrice 0.0
+orderStatus - orderid: 86294 status: Submitted filled 0.0 remaining 181.0 lastFillPrice 0.0
+orderStatus - orderid: 86304 status: PreSubmitted filled 0.0 remaining 60.0 lastFillPrice 0.0
+orderStatus - orderid: 86305 status: PreSubmitted filled 0.0 remaining 60.0 lastFillPrice 0.0
+orderStatus - orderid: 86310 status: PreSubmitted filled 0.0 remaining 52.0 lastFillPrice 0.0
+orderStatus - orderid: 86311 status: PreSubmitted filled 0.0 remaining 52.0 lastFillPrice 0.0
+orderStatus - orderid: 86307 status: PreSubmitted filled 0.0 remaining 650.0 lastFillPrice 0.0
+orderStatus - orderid: 86308 status: PreSubmitted filled 0.0 remaining 650.0 lastFillPrice 0.0
+orderStatus - orderid: 86298 status: PreSubmitted filled 0.0 remaining 195.0 lastFillPrice 0.0
+orderStatus - orderid: 86299 status: PreSubmitted filled 0.0 remaining 195.0 lastFillPrice 0.0
+orderStatus - orderid: 86316 status: PreSubmitted filled 0.0 remaining 82.0 lastFillPrice 0.0
+orderStatus - orderid: 86317 status: PreSubmitted filled 0.0 remaining 82.0 lastFillPrice 0.0
+orderStatus - orderid: 86313 status: PreSubmitted filled 0.0 remaining 147.0 lastFillPrice 0.0
+orderStatus - orderid: 86314 status: PreSubmitted filled 0.0 remaining 147.0 lastFillPrice 0.0
+orderStatus - orderid: 86319 status: PreSubmitted filled 0.0 remaining 141.0 lastFillPrice 0.0
+orderStatus - orderid: 86320 status: PreSubmitted filled 0.0 remaining 141.0 lastFillPrice 0.0
+orderStatus - orderid: 86300 status: Submitted filled 0.0 remaining 147.0 lastFillPrice 0.0
+orderStatus - orderid: 86303 status: Submitted filled 0.0 remaining 60.0 lastFillPrice 0.0
+orderStatus - orderid: 86309 status: Submitted filled 0.0 remaining 52.0 lastFillPrice 0.0
+orderStatus - orderid: 86322 status: PreSubmitted filled 0.0 remaining 57.0 lastFillPrice 0.0
+orderStatus - orderid: 86323 status: PreSubmitted filled 0.0 remaining 57.0 lastFillPrice 0.0
+orderStatus - orderid: 86297 status: Submitted filled 0.0 remaining 195.0 lastFillPrice 0.0
+orderStatus - orderid: 86315 status: Submitted filled 0.0 remaining 82.0 lastFillPrice 0.0
+orderStatus - orderid: 86312 status: Submitted filled 0.0 remaining 147.0 lastFillPrice 0.0
+orderStatus - orderid: 86318 status: Submitted filled 0.0 remaining 141.0 lastFillPrice 0.0
+orderStatus - orderid: 86306 status: Submitted filled 0.0 remaining 650.0 lastFillPrice 0.0
+orderStatus - orderid: 86325 status: PreSubmitted filled 0.0 remaining 305.0 lastFillPrice 0.0
+orderStatus - orderid: 86326 status: PreSubmitted filled 0.0 remaining 305.0 lastFillPrice 0.0
+orderStatus - orderid: 86328 status: PreSubmitted filled 0.0 remaining 683.0 lastFillPrice 0.0
+orderStatus - orderid: 86329 status: PreSubmitted filled 0.0 remaining 683.0 lastFillPrice 0.0
+orderStatus - orderid: 86331 status: PreSubmitted filled 0.0 remaining 184.0 lastFillPrice 0.0
+orderStatus - orderid: 86332 status: PreSubmitted filled 0.0 remaining 184.0 lastFillPrice 0.0
+orderStatus - orderid: 86334 status: PreSubmitted filled 0.0 remaining 159.0 lastFillPrice 0.0
+orderStatus - orderid: 86335 status: PreSubmitted filled 0.0 remaining 159.0 lastFillPrice 0.0
+orderStatus - orderid: 86324 status: Inactive filled 0.0 remaining 305.0 lastFillPrice 0.0
+orderStatus - orderid: 86325 status: Cancelled filled 0.0 remaining 305.0 lastFillPrice 0.0
+Error. Id:  86325  Code:  202  Msg:  Order Canceled - reason:
+orderStatus - orderid: 86326 status: Cancelled filled 0.0 remaining 305.0 lastFillPrice 0.0
+Error. Id:  86326  Code:  202  Msg:  Order Canceled - reason:
+orderStatus - orderid: 86337 status: PreSubmitted filled 0.0 remaining 245.0 lastFillPrice 0.0
+orderStatus - orderid: 86338 status: PreSubmitted filled 0.0 remaining 245.0 lastFillPrice 0.0
+orderStatus - orderid: 86336 status: Inactive filled 0.0 remaining 245.0 lastFillPrice 0.0
+orderStatus - orderid: 86337 status: Cancelled filled 0.0 remaining 245.0 lastFillPrice 0.0
+Error. Id:  86337  Code:  202  Msg:  Order Canceled - reason:
+orderStatus - orderid: 86338 status: Cancelled filled 0.0 remaining 245.0 lastFillPrice 0.0
+Error. Id:  86338  Code:  202  Msg:  Order Canceled - reason:
+Error. Id:  86324  Code:  201  Msg:  Order rejected - reason:The contract is not available for short sale.
+orderStatus - orderid: 86324 status: Inactive filled 0.0 remaining 305.0 lastFillPrice 0.0
+Error. Id:  86336  Code:  201  Msg:  Order rejected - reason:The contract is not available for short sale.
+orderStatus - orderid: 86336 status: Inactive filled 0.0 remaining 245.0 lastFillPrice 0.0
+orderStatus - orderid: 86321 status: Submitted filled 0.0 remaining 57.0 lastFillPrice 0.0
+orderStatus - orderid: 86330 status: Submitted filled 0.0 remaining 184.0 lastFillPrice 0.0
+orderStatus - orderid: 86327 status: Submitted filled 0.0 remaining 683.0 lastFillPrice 0.0
+orderStatus - orderid: 86333 status: Submitted filled 0.0 remaining 159.0 lastFillPrice 0.0
+ticker: AUPH
+previous close: 13.64
+intended quantity: 175
+intended stop price: 16.16
+86339
+86339
+86339
+ticker: ACB
+previous close: 6.68
+intended quantity: 358
+intended stop price: 7.92
+86342
+86342
+86342
+ticker: RIOT
+previous close: 34.33
+intended quantity: 69
+intended stop price: 40.68
+86345
+86345
+86345
+ticker: CWK
+previous close: 17.77
+intended quantity: 134
+intended stop price: 21.06
+86348
+86348
+86348
+ticker: TRGP
+previous close: 41.85
+intended quantity: 57
+intended stop price: 49.59
+86351
+86351
+86351
+ticker: HUYA
+previous close: 9.71
+intended quantity: 246
+intended stop price: 11.51
+86354
+86354
+86354
+ticker: CRON
+previous close: 6.17
+intended quantity: 387
+intended stop price: 7.31
+86357
+86357
+86357
+ticker: MRO
+previous close: 10.72
+intended quantity: 223
+intended stop price: 12.7
+86360
+86360
+86360
+ticker: EAF
+previous close: 10.45
+intended quantity: 229
+intended stop price: 12.38
+86363
+86363
+86363
+ticker: LAC
+previous close: 16.67
+intended quantity: 143
+intended stop price: 19.75
+86366
+86366
+86366
+ticker: SHAK
+previous close: 84.15
+intended quantity: 28
+intended stop price: 99.72
+86369
+86369
+86369
+ticker: LKNCY
+previous close: 13.69
+intended quantity: 174
+intended stop price: 16.22
+86372
+86372
+86372
+ticker: GOEV
+previous close: 5.91
+intended quantity: 405
+intended stop price: 7.0
+86375
+86375
+86375
+ticker: BLI
+previous close: 34.68
+intended quantity: 69
+intended stop price: 41.1
+86378
+86378
+86378
+ticker: SNPO
+previous close: 18.28
+intended quantity: 130
+intended stop price: 21.66
+86381
+86381
+86381
+orderStatus - orderid: 86340 status: PreSubmitted filled 0.0 remaining 269.0 lastFillPrice 0.0
+orderStatus - orderid: 86341 status: PreSubmitted filled 0.0 remaining 269.0 lastFillPrice 0.0
+orderStatus - orderid: 86339 status: Submitted filled 0.0 remaining 269.0 lastFillPrice 0.0
+orderStatus - orderid: 86346 status: PreSubmitted filled 0.0 remaining 107.0 lastFillPrice 0.0
+orderStatus - orderid: 86347 status: PreSubmitted filled 0.0 remaining 107.0 lastFillPrice 0.0
+orderStatus - orderid: 86349 status: PreSubmitted filled 0.0 remaining 207.0 lastFillPrice 0.0
+orderStatus - orderid: 86350 status: PreSubmitted filled 0.0 remaining 207.0 lastFillPrice 0.0
+orderStatus - orderid: 86352 status: PreSubmitted filled 0.0 remaining 87.0 lastFillPrice 0.0
+orderStatus - orderid: 86353 status: PreSubmitted filled 0.0 remaining 87.0 lastFillPrice 0.0
+orderStatus - orderid: 86343 status: PreSubmitted filled 0.0 remaining 551.0 lastFillPrice 0.0
+orderStatus - orderid: 86344 status: PreSubmitted filled 0.0 remaining 551.0 lastFillPrice 0.0
+orderStatus - orderid: 86355 status: PreSubmitted filled 0.0 remaining 379.0 lastFillPrice 0.0
+orderStatus - orderid: 86356 status: PreSubmitted filled 0.0 remaining 379.0 lastFillPrice 0.0
+orderStatus - orderid: 86358 status: PreSubmitted filled 0.0 remaining 596.0 lastFillPrice 0.0
+orderStatus - orderid: 86359 status: PreSubmitted filled 0.0 remaining 596.0 lastFillPrice 0.0
+orderStatus - orderid: 86361 status: PreSubmitted filled 0.0 remaining 343.0 lastFillPrice 0.0
+orderStatus - orderid: 86362 status: PreSubmitted filled 0.0 remaining 343.0 lastFillPrice 0.0
+orderStatus - orderid: 86345 status: Submitted filled 0.0 remaining 107.0 lastFillPrice 0.0
+orderStatus - orderid: 86351 status: Submitted filled 0.0 remaining 87.0 lastFillPrice 0.0
+orderStatus - orderid: 86348 status: Submitted filled 0.0 remaining 207.0 lastFillPrice 0.0
+orderStatus - orderid: 86364 status: PreSubmitted filled 0.0 remaining 352.0 lastFillPrice 0.0
+orderStatus - orderid: 86365 status: PreSubmitted filled 0.0 remaining 352.0 lastFillPrice 0.0
+orderStatus - orderid: 86367 status: PreSubmitted filled 0.0 remaining 220.0 lastFillPrice 0.0
+orderStatus - orderid: 86368 status: PreSubmitted filled 0.0 remaining 220.0 lastFillPrice 0.0
+orderStatus - orderid: 86370 status: PreSubmitted filled 0.0 remaining 43.0 lastFillPrice 0.0
+orderStatus - orderid: 86371 status: PreSubmitted filled 0.0 remaining 43.0 lastFillPrice 0.0
+orderStatus - orderid: 86373 status: PreSubmitted filled 0.0 remaining 269.0 lastFillPrice 0.0
+orderStatus - orderid: 86374 status: PreSubmitted filled 0.0 remaining 269.0 lastFillPrice 0.0
+orderStatus - orderid: 86376 status: PreSubmitted filled 0.0 remaining 623.0 lastFillPrice 0.0
+orderStatus - orderid: 86377 status: PreSubmitted filled 0.0 remaining 623.0 lastFillPrice 0.0
+orderStatus - orderid: 86342 status: Submitted filled 0.0 remaining 551.0 lastFillPrice 0.0
+orderStatus - orderid: 86354 status: Submitted filled 0.0 remaining 379.0 lastFillPrice 0.0
+orderStatus - orderid: 86360 status: Submitted filled 0.0 remaining 343.0 lastFillPrice 0.0
+orderStatus - orderid: 86357 status: Submitted filled 0.0 remaining 596.0 lastFillPrice 0.0
+orderStatus - orderid: 86379 status: PreSubmitted filled 0.0 remaining 106.0 lastFillPrice 0.0
+orderStatus - orderid: 86380 status: PreSubmitted filled 0.0 remaining 106.0 lastFillPrice 0.0
+orderStatus - orderid: 86382 status: PreSubmitted filled 0.0 remaining 201.0 lastFillPrice 0.0
+orderStatus - orderid: 86383 status: PreSubmitted filled 0.0 remaining 201.0 lastFillPrice 0.0
+orderStatus - orderid: 86363 status: Submitted filled 0.0 remaining 352.0 lastFillPrice 0.0
+orderStatus - orderid: 86366 status: Submitted filled 0.0 remaining 220.0 lastFillPrice 0.0
+orderStatus - orderid: 86369 status: Submitted filled 0.0 remaining 43.0 lastFillPrice 0.0
+orderStatus - orderid: 86375 status: Submitted filled 0.0 remaining 623.0 lastFillPrice 0.0
+orderStatus - orderid: 86378 status: Submitted filled 0.0 remaining 106.0 lastFillPrice 0.0
+ticker: FL
+previous close: 58.34
+intended quantity: 41
+intended stop price: 69.13
+86384
+86384
+86384
+ticker: PFGC
+previous close: 43.13
+intended quantity: 55
+intended stop price: 51.11
+86387
+86387
+86387
+ticker: ME
+previous close: 8.71
+intended quantity: 274
+intended stop price: 10.32
+86390
+86390
+86390
+ticker: ENLC
+previous close: 5.04
+intended quantity: 474
+intended stop price: 5.97
+86393
+86393
+86393
+ticker: APPS
+previous close: 48.64
+intended quantity: 49
+intended stop price: 57.64
+86396
+86396
+86396
+ticker: CROX
+previous close: 141.93
+intended quantity: 16
+intended stop price: 168.19
+86399
+86399
+86399
+ticker: MPLN
+previous close: 5.97
+intended quantity: 400
+intended stop price: 7.07
+86402
+86402
+86402
+ticker: VXRT
+previous close: 8.34
+intended quantity: 287
+intended stop price: 9.88
+86405
+86405
+86405
+['SBS', 'MCFE', 'BKD', 'RXN', 'YELP', 'TTM', 'MXCT', 'ENIA', 'SPLB', 'GOGO', 'BZ', 'LYFT', 'DRNA', 'VXX', 'DASH', 'PTON', 'TV', 'ALGN', 'PKI', 'IBKR', 'UBER', 'NEWR', 'BGS', 'PING', 'GM', 'ONB', 'VIXY']
+27
+['MNSO', 'JWN', 'SAVE', 'SAVA', 'FLGT', 'FATE', 'MVST', 'WKHS', 'BTU', 'X', 'SFM', 'HRC', 'BHG', 'KTOS', 'SDGR', 'URBN', 'YSG', 'PVH', 'HMHC', 'SRPT', 'DOCN', 'AVYA', 'JKS', 'TBLA', 'AQUA', 'NNOX', 'IMAB', 'CSIQ', 'CVI', 'CHPT', 'CDE', 'PDCE', 'MTZ', 'ETRN', 'SIX', 'FUBO', 'INMD', 'CMA', 'PBF', 'XEC', 'RDFN', 'JBLU', 'HIMX', 'EGO', 'TPX', 'GENI', 'HTGC', 'MNR', 'SILV', 'COG', 'ASO', 'DM', 'CGC', 'PWSC', 'NG', 'ZIM', 'LMND', 'TLRY', 'CRK', 'LICY', 'HL', 'AG', 'KGC', 'AEO', 'FCEL', 'TGTX', 'ALK', 'SAND', 'SHCR', 'SKIN', 'GGB', 'MKFG', 'UP', 'FLR', 'AVPT', 'CAN', 'TDC', 'CANO', 'FULC', 'OSCR', 'PTEN', 'FEYE', 'M', 'MARA', 'DNUT', 'CRSP', 'UCTT', 'PLAY', 'CCJ', 'MLCO', 'NVTA', 'HBI', 'LAZR', 'INVA', 'POSH', 'IS', 'SKLZ', 'HRTX', 'OTLY', 'RUN', 'BZUN', 'NEGG', 'SMFR', 'DADA', 'PRMW', 'RRC', 'VIPS', 'YETI', 'YY', 'SKT', 'NCLH', 'KSS', 'LC', 'GPRO', 'FRO', 'AMKR', 'SPR', 'CWH', 'SBLK', 'BMBL', 'BARK', 'LPRO', 'GTES', 'DDD', 'VLDR', 'IBRX', 'CNK', 'FIGS', 'SKX', 'CRBU', 'TAL', 'GRWG', 'PAA', 'OPCH', 'COMP', 'DK', 'SYNH', 'AVIR', 'STOR', 'DBI', 'MTTR', 'AI', 'ROOT', 'CLOV', 'JMIA', 'MGNI', 'EXPI', 'WWE', 'TROX', 'TRQ', 'EQX', 'HYZN', 'ZH', 'TWOU', 'UCO', 'BBBY', 'WOOF', 'PSTG', 'BIGC', 'DQ', 'SM', 'IGT', 'FVRR', 'NKLA', 'ANF', 'MSTR', 'JAZZ', 'TSP', 'AU', 'OII', 'HP', 'VIR', 'PSFE', 'FGEN', 'AR', 'LTHM', 'AGI', 'STAG', 'CLB', 'HYFM', 'MUR', 'ETWO', 'DKS', 'GT', 'APA', 'R', 'ERF', 'AA', 'KC', 'MAXR', 'CNR', 'HYLN', 'LEV', 'FSR', 'ASTR', 'FINV', 'FOUR', 'MOMO', 'VTWO', 'WSC', 'AEVA', 'BEAM', 'SI', 'SHO', 'PAAS', 'CMRE', 'SLQT', 'HFC', 'MRVI', 'ALIT', 'SHLX', 'NOV', 'PCT', 'CIEN', 'INO', 'PVG', 'MP', 'ESI', 'SJI', 'SPWR', 'ACVA', 'DNMR', 'STEM', 'ZUO', 'IQ', 'HBM', 'REGI', 'DAO', 'YOU', 'QS', 'SSRM', 'CPRI', 'CF', 'TUP', 'ENVX', 'ELY', 'VSTO', 'GXO', 'AM', 'IYE', 'CPE', 'GOGL', 'YALA', 'AROC', 'CAR', 'CNDT', 'BLMN', 'PTRA', 'TUYA', 'CELH', 'MTDR', 'LX', 'SMAR', 'XPO', 'CYH', 'QFIN', 'SONO', 'FBP', 'PBI', 'BLDP', 'ETHE', 'NNDM', 'SFIX', 'CC', 'SABR', 'GFI', 'EQT', 'PUBM', 'FTI', 'EH', 'SSYS', 'WES', 'COOK', 'EDIT', 'GSM', 'OSTK', 'NIU', 'OLN', 'CRSR', 'KLIC', 'DVAX', 'AMRN', 'VZIO', 'OVV', 'ORGO', 'AUPH', 'ACB', 'RIOT', 'CWK', 'TRGP', 'HUYA', 'CRON', 'MRO', 'EAF', 'LAC', 'SHAK', 'LKNCY', 'GOEV', 'BLI', 'SNPO', 'FL', 'PFGC', 'ME', 'ENLC', 'APPS', 'CROX', 'MPLN', 'VXRT']
+308
+orderStatus - orderid: 86385 status: PreSubmitted filled 0.0 remaining 63.0 lastFillPrice 0.0
+orderStatus - orderid: 86386 status: PreSubmitted filled 0.0 remaining 63.0 lastFillPrice 0.0
+orderStatus - orderid: 86388 status: PreSubmitted filled 0.0 remaining 85.0 lastFillPrice 0.0
+orderStatus - orderid: 86389 status: PreSubmitted filled 0.0 remaining 85.0 lastFillPrice 0.0
+orderStatus - orderid: 86394 status: PreSubmitted filled 0.0 remaining 730.0 lastFillPrice 0.0
+orderStatus - orderid: 86395 status: PreSubmitted filled 0.0 remaining 730.0 lastFillPrice 0.0
+orderStatus - orderid: 86384 status: Submitted filled 0.0 remaining 63.0 lastFillPrice 0.0
+orderStatus - orderid: 86387 status: Submitted filled 0.0 remaining 85.0 lastFillPrice 0.0
+orderStatus - orderid: 86381 status: Submitted filled 0.0 remaining 201.0 lastFillPrice 0.0
+orderStatus - orderid: 86400 status: PreSubmitted filled 0.0 remaining 25.0 lastFillPrice 0.0
+orderStatus - orderid: 86401 status: PreSubmitted filled 0.0 remaining 25.0 lastFillPrice 0.0
+orderStatus - orderid: 86391 status: PreSubmitted filled 0.0 remaining 422.0 lastFillPrice 0.0
+orderStatus - orderid: 86392 status: PreSubmitted filled 0.0 remaining 422.0 lastFillPrice 0.0
+orderStatus - orderid: 86393 status: Submitted filled 0.0 remaining 730.0 lastFillPrice 0.0
+orderStatus - orderid: 86403 status: PreSubmitted filled 0.0 remaining 616.0 lastFillPrice 0.0
+orderStatus - orderid: 86404 status: PreSubmitted filled 0.0 remaining 616.0 lastFillPrice 0.0
+orderStatus - orderid: 86397 status: PreSubmitted filled 0.0 remaining 75.0 lastFillPrice 0.0
+orderStatus - orderid: 86398 status: PreSubmitted filled 0.0 remaining 75.0 lastFillPrice 0.0
+orderStatus - orderid: 86406 status: PreSubmitted filled 0.0 remaining 441.0 lastFillPrice 0.0
+orderStatus - orderid: 86407 status: PreSubmitted filled 0.0 remaining 441.0 lastFillPrice 0.0
+orderStatus - orderid: 86399 status: Submitted filled 0.0 remaining 25.0 lastFillPrice 0.0
+orderStatus - orderid: 86402 status: Submitted filled 0.0 remaining 616.0 lastFillPrice 0.0
+orderStatus - orderid: 86390 status: Submitted filled 0.0 remaining 422.0 lastFillPrice 0.0
+orderStatus - orderid: 86396 status: Submitted filled 0.0 remaining 75.0 lastFillPrice 0.0
+orderStatus - orderid: 86405 status: Submitted filled 0.0 remaining 441.0 lastFillPrice 0.0
