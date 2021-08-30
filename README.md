@@ -10,6 +10,6 @@ Schwab_Gap_Up/Down grabs filtered tickers from StreetSmartEdge and downloads as 
 
 Pre/Postopen are scripts for connecting to the IB TWS API and placing orders. Preopen is ran prior to market open and Postopen at market open. 
 
-Also includes some webscrapers for preliminary stock filtering (don't want to trade highly non-liquid, small market cap tickers). Simply not scalable. 
+Also includes some webscrapers for preliminary stock filtering (don't want to trade highly non-liquid, small market cap tickers - simply not scalable.) 
 
    
