@@ -2,6 +2,8 @@
 
 List of daily execution scripts - Actual data analysis not included (I can't be giving my secrets away!)  
 
+Makes ~200% per year since 2020. Arbitrage strategy involving pre-market trading price and historic data analysis. 
+
 Includes:
 
 Connecting to IBKR API, grabbing list of tickers from Schwab (post-filtered), automation scripts (time-specific scripts), historic data returns (at various thresholds), downloading EOD data, etc. 
